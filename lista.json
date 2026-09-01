@@ -1,0 +1,4607 @@
+[
+  {
+    "id": "juego_1",
+    "titulo": "10-Yard Fight (ESP)",
+    "archivo": "bundle_chunk_0.cache"
+  },
+  {
+    "id": "juego_2",
+    "titulo": "1200-in-1 (EN)",
+    "archivo": "bundle_chunk_1.cache"
+  },
+  {
+    "id": "juego_3",
+    "titulo": "1942 (ESP)",
+    "archivo": "bundle_chunk_2.cache"
+  },
+  {
+    "id": "juego_4",
+    "titulo": "1943 - The Battle of Midway (ESP)",
+    "archivo": "bundle_chunk_3.cache"
+  },
+  {
+    "id": "juego_5",
+    "titulo": "2048 (ESP)",
+    "archivo": "bundle_chunk_4.cache"
+  },
+  {
+    "id": "juego_6",
+    "titulo": "3 in 1 Supergun (ESP) (Asia) (Unl)",
+    "archivo": "bundle_chunk_5.cache"
+  },
+  {
+    "id": "juego_7",
+    "titulo": "42-in-1 (En)",
+    "archivo": "bundle_chunk_6.cache"
+  },
+  {
+    "id": "juego_8",
+    "titulo": "8 Eyes (ESP)",
+    "archivo": "bundle_chunk_7.cache"
+  },
+  {
+    "id": "juego_9",
+    "titulo": "A Boy and His Blob Trouble on Blobolonia (ESP)",
+    "archivo": "bundle_chunk_8.cache"
+  },
+  {
+    "id": "juego_10",
+    "titulo": "A Nightmare on Elm Street (ESP)",
+    "archivo": "bundle_chunk_9.cache"
+  },
+  {
+    "id": "juego_11",
+    "titulo": "Abadox - The Deadly Inner War (ESP-Hammer)",
+    "archivo": "bundle_chunk_10.cache"
+  },
+  {
+    "id": "juego_12",
+    "titulo": "Abadox - The Deadly Inner War (ESP-Wave)",
+    "archivo": "bundle_chunk_11.cache"
+  },
+  {
+    "id": "juego_13",
+    "titulo": "Action 52 (ESP)",
+    "archivo": "bundle_chunk_12.cache"
+  },
+  {
+    "id": "juego_14",
+    "titulo": "Adan y Eva (Unl) (ESP)",
+    "archivo": "bundle_chunk_13.cache"
+  },
+  {
+    "id": "juego_15",
+    "titulo": "Advanced Dungeons & Dragons - Dragon Strike (ESP)",
+    "archivo": "bundle_chunk_14.cache"
+  },
+  {
+    "id": "juego_16",
+    "titulo": "Advanced Dungeons & Dragons - Dragons of Flame (ESP)",
+    "archivo": "bundle_chunk_15.cache"
+  },
+  {
+    "id": "juego_17",
+    "titulo": "Advanced Dungeons & Dragons - Heroes of the Lance (ESP)",
+    "archivo": "bundle_chunk_16.cache"
+  },
+  {
+    "id": "juego_18",
+    "titulo": "Adventures in the Magic Kingdom (ESP)",
+    "archivo": "bundle_chunk_17.cache"
+  },
+  {
+    "id": "juego_19",
+    "titulo": "Adventures of Dino Riki (ESP)",
+    "archivo": "bundle_chunk_18.cache"
+  },
+  {
+    "id": "juego_20",
+    "titulo": "Adventures of Lolo (ESP)",
+    "archivo": "bundle_chunk_19.cache"
+  },
+  {
+    "id": "juego_21",
+    "titulo": "Adventures of Lolo 2 (ESP)",
+    "archivo": "bundle_chunk_20.cache"
+  },
+  {
+    "id": "juego_22",
+    "titulo": "Adventures of Lolo 3 (ESP)",
+    "archivo": "bundle_chunk_21.cache"
+  },
+  {
+    "id": "juego_23",
+    "titulo": "Adventures of Tom Sawyer (ESP)",
+    "archivo": "bundle_chunk_22.cache"
+  },
+  {
+    "id": "juego_24",
+    "titulo": "After Burner (ESP)",
+    "archivo": "bundle_chunk_23.cache"
+  },
+  {
+    "id": "juego_25",
+    "titulo": "After Burner II (ESP)",
+    "archivo": "bundle_chunk_24.cache"
+  },
+  {
+    "id": "juego_26",
+    "titulo": "Aigina no Yogen - Balubalouk no Densetsu Yori (ESP)",
+    "archivo": "bundle_chunk_25.cache"
+  },
+  {
+    "id": "juego_27",
+    "titulo": "Air Fortress (ESP)",
+    "archivo": "bundle_chunk_26.cache"
+  },
+  {
+    "id": "juego_28",
+    "titulo": "Airwolf (ESP)",
+    "archivo": "bundle_chunk_27.cache"
+  },
+  {
+    "id": "juego_29",
+    "titulo": "Akumajou Special - Boku Dracula-kun (ESP)",
+    "archivo": "bundle_chunk_28.cache"
+  },
+  {
+    "id": "juego_30",
+    "titulo": "Aladdin (ESP)",
+    "archivo": "bundle_chunk_29.cache"
+  },
+  {
+    "id": "juego_31",
+    "titulo": "Alfred Chicken (ESP)",
+    "archivo": "bundle_chunk_30.cache"
+  },
+  {
+    "id": "juego_32",
+    "titulo": "Alien 3 (ESP)",
+    "archivo": "bundle_chunk_31.cache"
+  },
+  {
+    "id": "juego_33",
+    "titulo": "Alien Syndrome (ESP)",
+    "archivo": "bundle_chunk_32.cache"
+  },
+  {
+    "id": "juego_34",
+    "titulo": "Alpha Mission (ESP)",
+    "archivo": "bundle_chunk_33.cache"
+  },
+  {
+    "id": "juego_35",
+    "titulo": "Alter Ego (ESP)",
+    "archivo": "bundle_chunk_34.cache"
+  },
+  {
+    "id": "juego_36",
+    "titulo": "Amagon (ESP)",
+    "archivo": "bundle_chunk_35.cache"
+  },
+  {
+    "id": "juego_37",
+    "titulo": "Amazon Diet (ESP)",
+    "archivo": "bundle_chunk_36.cache"
+  },
+  {
+    "id": "juego_38",
+    "titulo": "Antarctic Adventure (ESP-Terwilf)",
+    "archivo": "bundle_chunk_37.cache"
+  },
+  {
+    "id": "juego_39",
+    "titulo": "Antarctic Adventure (ESP-Wave)",
+    "archivo": "bundle_chunk_38.cache"
+  },
+  {
+    "id": "juego_40",
+    "titulo": "Architect for Dr. PC Jr. (Unl) (ESP)",
+    "archivo": "bundle_chunk_39.cache"
+  },
+  {
+    "id": "juego_41",
+    "titulo": "Archon (ESP)",
+    "archivo": "bundle_chunk_40.cache"
+  },
+  {
+    "id": "juego_42",
+    "titulo": "Argos no Senshi (ESP-Jap)",
+    "archivo": "bundle_chunk_41.cache"
+  },
+  {
+    "id": "juego_43",
+    "titulo": "Argus (ESP)",
+    "archivo": "bundle_chunk_42.cache"
+  },
+  {
+    "id": "juego_44",
+    "titulo": "Arkanoid (ESP)",
+    "archivo": "bundle_chunk_43.cache"
+  },
+  {
+    "id": "juego_45",
+    "titulo": "Arkanoid II (ESP)",
+    "archivo": "bundle_chunk_44.cache"
+  },
+  {
+    "id": "juego_46",
+    "titulo": "Arkista's Ring (ESP)",
+    "archivo": "bundle_chunk_45.cache"
+  },
+  {
+    "id": "juego_47",
+    "titulo": "Armadillo (ESP)",
+    "archivo": "bundle_chunk_46.cache"
+  },
+  {
+    "id": "juego_48",
+    "titulo": "Armed Dragon Fantasy Villgust (ESP)",
+    "archivo": "bundle_chunk_47.cache"
+  },
+  {
+    "id": "juego_49",
+    "titulo": "Astro Robo Sasa (ESP)",
+    "archivo": "bundle_chunk_48.cache"
+  },
+  {
+    "id": "juego_50",
+    "titulo": "Astyanax (ESP)",
+    "archivo": "bundle_chunk_49.cache"
+  },
+  {
+    "id": "juego_51",
+    "titulo": "Athena (ESP)",
+    "archivo": "bundle_chunk_50.cache"
+  },
+  {
+    "id": "juego_52",
+    "titulo": "Atlantis no Nazo (ESP)",
+    "archivo": "bundle_chunk_51.cache"
+  },
+  {
+    "id": "juego_53",
+    "titulo": "Atmo Sphere (ESP)",
+    "archivo": "bundle_chunk_52.cache"
+  },
+  {
+    "id": "juego_54",
+    "titulo": "Attack Animal Gakuen (ESP)",
+    "archivo": "bundle_chunk_53.cache"
+  },
+  {
+    "id": "juego_55",
+    "titulo": "Attack of the Killer Tomatoes (ESP)",
+    "archivo": "bundle_chunk_54.cache"
+  },
+  {
+    "id": "juego_56",
+    "titulo": "B-Wings (ESP)",
+    "archivo": "bundle_chunk_55.cache"
+  },
+  {
+    "id": "juego_57",
+    "titulo": "Babel no Tou (ESP)",
+    "archivo": "bundle_chunk_56.cache"
+  },
+  {
+    "id": "juego_58",
+    "titulo": "Baby Boomer (Color Dreams) (ESP)",
+    "archivo": "bundle_chunk_57.cache"
+  },
+  {
+    "id": "juego_59",
+    "titulo": "Back to the Future (ESP)",
+    "archivo": "bundle_chunk_58.cache"
+  },
+  {
+    "id": "juego_60",
+    "titulo": "Bad Dudes (ESP)",
+    "archivo": "bundle_chunk_59.cache"
+  },
+  {
+    "id": "juego_61",
+    "titulo": "Bad Street Brawler (ESP)",
+    "archivo": "bundle_chunk_60.cache"
+  },
+  {
+    "id": "juego_62",
+    "titulo": "Ballblazer (ESP)",
+    "archivo": "bundle_chunk_61.cache"
+  },
+  {
+    "id": "juego_63",
+    "titulo": "Balloon Fight (ESP)",
+    "archivo": "bundle_chunk_62.cache"
+  },
+  {
+    "id": "juego_64",
+    "titulo": "Balloon Monster - Monstruo de los Globos, El (Spain) (Gluk Video) (Unl) (ESP)",
+    "archivo": "bundle_chunk_63.cache"
+  },
+  {
+    "id": "juego_65",
+    "titulo": "Balloon Monster - Monstruo de los Globos, El (Spain) (Rev 1) (Gluk Video) (Unl) (ESP)",
+    "archivo": "bundle_chunk_64.cache"
+  },
+  {
+    "id": "juego_66",
+    "titulo": "Baltron (ESP)",
+    "archivo": "bundle_chunk_65.cache"
+  },
+  {
+    "id": "juego_67",
+    "titulo": "Banana (ESP)",
+    "archivo": "bundle_chunk_66.cache"
+  },
+  {
+    "id": "juego_68",
+    "titulo": "Baseball (ESP)",
+    "archivo": "bundle_chunk_67.cache"
+  },
+  {
+    "id": "juego_69",
+    "titulo": "Bashi Bazook - Morphoid Masher (ESP) (Proto)",
+    "archivo": "bundle_chunk_68.cache"
+  },
+  {
+    "id": "juego_70",
+    "titulo": "Batman (ESP) (Prototype)",
+    "archivo": "bundle_chunk_69.cache"
+  },
+  {
+    "id": "juego_71",
+    "titulo": "Batman (ESP)",
+    "archivo": "bundle_chunk_70.cache"
+  },
+  {
+    "id": "juego_72",
+    "titulo": "Batman - Return of the Joker (ESP)",
+    "archivo": "bundle_chunk_71.cache"
+  },
+  {
+    "id": "juego_73",
+    "titulo": "Batman - The Video Game (ESP-WAVE)",
+    "archivo": "bundle_chunk_72.cache"
+  },
+  {
+    "id": "juego_74",
+    "titulo": "Batman Returns (ESP-2.0)",
+    "archivo": "bundle_chunk_73.cache"
+  },
+  {
+    "id": "juego_75",
+    "titulo": "Batman The Video Game (ESP-Vice Translations)",
+    "archivo": "bundle_chunk_74.cache"
+  },
+  {
+    "id": "juego_76",
+    "titulo": "Batsu & Terry - Makyou no Tetsujin Race (ESP)",
+    "archivo": "bundle_chunk_75.cache"
+  },
+  {
+    "id": "juego_77",
+    "titulo": "Battle Chess (ESP)",
+    "archivo": "bundle_chunk_76.cache"
+  },
+  {
+    "id": "juego_78",
+    "titulo": "Battle City (ESP)",
+    "archivo": "bundle_chunk_77.cache"
+  },
+  {
+    "id": "juego_79",
+    "titulo": "Battle Tank (ESP)",
+    "archivo": "bundle_chunk_78.cache"
+  },
+  {
+    "id": "juego_80",
+    "titulo": "Battleship (ESP)",
+    "archivo": "bundle_chunk_79.cache"
+  },
+  {
+    "id": "juego_81",
+    "titulo": "Beauty and the Beast (ESP)",
+    "archivo": "bundle_chunk_80.cache"
+  },
+  {
+    "id": "juego_82",
+    "titulo": "Bee 52 (ESP)",
+    "archivo": "bundle_chunk_81.cache"
+  },
+  {
+    "id": "juego_83",
+    "titulo": "Beetlejuice (ESP)",
+    "archivo": "bundle_chunk_82.cache"
+  },
+  {
+    "id": "juego_84",
+    "titulo": "Big Nose Freaks Out (ESP) (Unl)",
+    "archivo": "bundle_chunk_83.cache"
+  },
+  {
+    "id": "juego_85",
+    "titulo": "Big Nose the Caveman (ESP) (Unl)",
+    "archivo": "bundle_chunk_84.cache"
+  },
+  {
+    "id": "juego_86",
+    "titulo": "Bigfoot (ESP)",
+    "archivo": "bundle_chunk_85.cache"
+  },
+  {
+    "id": "juego_87",
+    "titulo": "Binary Land (ESP-Terwilf)",
+    "archivo": "bundle_chunk_86.cache"
+  },
+  {
+    "id": "juego_88",
+    "titulo": "Binary Land (ESP-Wave)",
+    "archivo": "bundle_chunk_87.cache"
+  },
+  {
+    "id": "juego_89",
+    "titulo": "Bio Force Ape (ESP) (En) (Proto)",
+    "archivo": "bundle_chunk_88.cache"
+  },
+  {
+    "id": "juego_90",
+    "titulo": "Bio Miracle Bokutte Upa (ESP)",
+    "archivo": "bundle_chunk_89.cache"
+  },
+  {
+    "id": "juego_91",
+    "titulo": "Bio Senshi Dan - Increaser Tono Tatakai (ESP)",
+    "archivo": "bundle_chunk_90.cache"
+  },
+  {
+    "id": "juego_92",
+    "titulo": "Bionic Commando (ESP-TheFireRed-Jap)",
+    "archivo": "bundle_chunk_91.cache"
+  },
+  {
+    "id": "juego_93",
+    "titulo": "Bionic Commando (ESP-Wave)",
+    "archivo": "bundle_chunk_92.cache"
+  },
+  {
+    "id": "juego_94",
+    "titulo": "Blackjack (ESP) (Unl)",
+    "archivo": "bundle_chunk_93.cache"
+  },
+  {
+    "id": "juego_95",
+    "titulo": "Blades of Steel (ESP)",
+    "archivo": "bundle_chunk_94.cache"
+  },
+  {
+    "id": "juego_96",
+    "titulo": "Blaster Master (ESP)",
+    "archivo": "bundle_chunk_95.cache"
+  },
+  {
+    "id": "juego_97",
+    "titulo": "BlobQuest (ESP)",
+    "archivo": "bundle_chunk_96.cache"
+  },
+  {
+    "id": "juego_98",
+    "titulo": "Bomberman (ESP)",
+    "archivo": "bundle_chunk_97.cache"
+  },
+  {
+    "id": "juego_99",
+    "titulo": "Bomberman II (ESP)",
+    "archivo": "bundle_chunk_98.cache"
+  },
+  {
+    "id": "juego_100",
+    "titulo": "Bonk's Adventure (ESP)",
+    "archivo": "bundle_chunk_99.cache"
+  },
+  {
+    "id": "juego_101",
+    "titulo": "Booby Kids (ESP)",
+    "archivo": "bundle_chunk_100.cache"
+  },
+  {
+    "id": "juego_102",
+    "titulo": "Booky Man (Spain) (Gluk Video) (ESP-Unl)",
+    "archivo": "bundle_chunk_101.cache"
+  },
+  {
+    "id": "juego_103",
+    "titulo": "Boulder Dash (ESP)",
+    "archivo": "bundle_chunk_102.cache"
+  },
+  {
+    "id": "juego_104",
+    "titulo": "Bram Stoker's Dracula (ESP)",
+    "archivo": "bundle_chunk_103.cache"
+  },
+  {
+    "id": "juego_105",
+    "titulo": "BreakThru (ESP)",
+    "archivo": "bundle_chunk_104.cache"
+  },
+  {
+    "id": "juego_106",
+    "titulo": "Bubble Bobble (ESP)",
+    "archivo": "bundle_chunk_105.cache"
+  },
+  {
+    "id": "juego_107",
+    "titulo": "Bubble Bobble Part 2 (ESP)",
+    "archivo": "bundle_chunk_106.cache"
+  },
+  {
+    "id": "juego_108",
+    "titulo": "Bucky O'Hare (ESP)",
+    "archivo": "bundle_chunk_107.cache"
+  },
+  {
+    "id": "juego_109",
+    "titulo": "BugTris (Korea) (ESP-Unl)",
+    "archivo": "bundle_chunk_108.cache"
+  },
+  {
+    "id": "juego_110",
+    "titulo": "Bump'n'Jump (ESP)",
+    "archivo": "bundle_chunk_109.cache"
+  },
+  {
+    "id": "juego_111",
+    "titulo": "Burai Fighter (ESP)",
+    "archivo": "bundle_chunk_110.cache"
+  },
+  {
+    "id": "juego_112",
+    "titulo": "BurgerTime (ESP)",
+    "archivo": "bundle_chunk_111.cache"
+  },
+  {
+    "id": "juego_113",
+    "titulo": "Buzz & Waldog (ESP) (Proto) (Unl)",
+    "archivo": "bundle_chunk_112.cache"
+  },
+  {
+    "id": "juego_114",
+    "titulo": "Böbl (ESP)",
+    "archivo": "bundle_chunk_113.cache"
+  },
+  {
+    "id": "juego_115",
+    "titulo": "Cabal (ESP)",
+    "archivo": "bundle_chunk_114.cache"
+  },
+  {
+    "id": "juego_116",
+    "titulo": "California Games (ESP)",
+    "archivo": "bundle_chunk_115.cache"
+  },
+  {
+    "id": "juego_117",
+    "titulo": "Captain America and The Avengers (ESP-pepodmc)",
+    "archivo": "bundle_chunk_116.cache"
+  },
+  {
+    "id": "juego_118",
+    "titulo": "Captain Planet and The Planeteers (ESP-Wave)",
+    "archivo": "bundle_chunk_117.cache"
+  },
+  {
+    "id": "juego_119",
+    "titulo": "Captain Silver (ESP)",
+    "archivo": "bundle_chunk_118.cache"
+  },
+  {
+    "id": "juego_120",
+    "titulo": "Captain Skyhawk (ESP) (PRG1)",
+    "archivo": "bundle_chunk_119.cache"
+  },
+  {
+    "id": "juego_121",
+    "titulo": "Captain Tsubasa Vol. II - Super Striker (ESP-pepodmc)",
+    "archivo": "bundle_chunk_120.cache"
+  },
+  {
+    "id": "juego_122",
+    "titulo": "Captain Tsubasa Vol. II Super Striker (ESP-Nicogalan)",
+    "archivo": "bundle_chunk_121.cache"
+  },
+  {
+    "id": "juego_123",
+    "titulo": "Casino Kid (ESP)",
+    "archivo": "bundle_chunk_122.cache"
+  },
+  {
+    "id": "juego_124",
+    "titulo": "Casino Kid II (ESP)",
+    "archivo": "bundle_chunk_123.cache"
+  },
+  {
+    "id": "juego_125",
+    "titulo": "Castelian (ESP)",
+    "archivo": "bundle_chunk_124.cache"
+  },
+  {
+    "id": "juego_126",
+    "titulo": "Castle of Deceit (Bunch) (ESP)",
+    "archivo": "bundle_chunk_125.cache"
+  },
+  {
+    "id": "juego_127",
+    "titulo": "Castle of Dragon (ESP)",
+    "archivo": "bundle_chunk_126.cache"
+  },
+  {
+    "id": "juego_128",
+    "titulo": "Castlequest (ESP)",
+    "archivo": "bundle_chunk_127.cache"
+  },
+  {
+    "id": "juego_129",
+    "titulo": "Castlevania (Euro-ESP)",
+    "archivo": "bundle_chunk_128.cache"
+  },
+  {
+    "id": "juego_130",
+    "titulo": "Castlevania (USA)",
+    "archivo": "bundle_chunk_129.cache"
+  },
+  {
+    "id": "juego_131",
+    "titulo": "Castlevania (USA-ESP)",
+    "archivo": "bundle_chunk_130.cache"
+  },
+  {
+    "id": "juego_132",
+    "titulo": "Castlevania 2 - Simon's Quest (ESP-Julián l.)",
+    "archivo": "bundle_chunk_131.cache"
+  },
+  {
+    "id": "juego_133",
+    "titulo": "Castlevania II - Simon's Quest (ESP)",
+    "archivo": "bundle_chunk_132.cache"
+  },
+  {
+    "id": "juego_134",
+    "titulo": "Castlevania II - Simon's Quest (ESP-TransGen)",
+    "archivo": "bundle_chunk_133.cache"
+  },
+  {
+    "id": "juego_135",
+    "titulo": "Castlevania III Dracula’s Curse (ESP-Blade133bo)",
+    "archivo": "bundle_chunk_134.cache"
+  },
+  {
+    "id": "juego_136",
+    "titulo": "Castlevania III Dracula’s Curse (ESP-Wave)",
+    "archivo": "bundle_chunk_135.cache"
+  },
+  {
+    "id": "juego_137",
+    "titulo": "Chack'n Pop (ESP)",
+    "archivo": "bundle_chunk_136.cache"
+  },
+  {
+    "id": "juego_138",
+    "titulo": "Challenge of the Dragon (Color Dreams) (ESP)",
+    "archivo": "bundle_chunk_137.cache"
+  },
+  {
+    "id": "juego_139",
+    "titulo": "Challenger (ESP)",
+    "archivo": "bundle_chunk_138.cache"
+  },
+  {
+    "id": "juego_140",
+    "titulo": "Championship Rally (ESP) (Europe)",
+    "archivo": "bundle_chunk_139.cache"
+  },
+  {
+    "id": "juego_141",
+    "titulo": "Chase (ESP)",
+    "archivo": "bundle_chunk_140.cache"
+  },
+  {
+    "id": "juego_142",
+    "titulo": "Cheetah Men II (ESP) (Unl)",
+    "archivo": "bundle_chunk_141.cache"
+  },
+  {
+    "id": "juego_143",
+    "titulo": "Chiller (ESP) (Unl)",
+    "archivo": "bundle_chunk_142.cache"
+  },
+  {
+    "id": "juego_144",
+    "titulo": "Chip 'n Dale Rescue Rangers (ESP-Darkchaosblast)",
+    "archivo": "bundle_chunk_143.cache"
+  },
+  {
+    "id": "juego_145",
+    "titulo": "Chip 'n Dale Rescue Rangers (ESP-Wave)",
+    "archivo": "bundle_chunk_144.cache"
+  },
+  {
+    "id": "juego_146",
+    "titulo": "Chip 'n Dale Rescue Rangers 2 (ESP)",
+    "archivo": "bundle_chunk_145.cache"
+  },
+  {
+    "id": "juego_147",
+    "titulo": "Choplifter (ESP)",
+    "archivo": "bundle_chunk_146.cache"
+  },
+  {
+    "id": "juego_148",
+    "titulo": "Chou Fuyuu Yousai Exed Exes (ESP)",
+    "archivo": "bundle_chunk_147.cache"
+  },
+  {
+    "id": "juego_149",
+    "titulo": "Choujikuu Yousai - Macross (ESP-Max1323)",
+    "archivo": "bundle_chunk_148.cache"
+  },
+  {
+    "id": "juego_150",
+    "titulo": "Choujikuu Yousai - Macross (ESP-Wave)",
+    "archivo": "bundle_chunk_149.cache"
+  },
+  {
+    "id": "juego_151",
+    "titulo": "Choujin Sentai Jetman (ESP)",
+    "archivo": "bundle_chunk_150.cache"
+  },
+  {
+    "id": "juego_152",
+    "titulo": "Chubby Cherub (ESP)",
+    "archivo": "bundle_chunk_151.cache"
+  },
+  {
+    "id": "juego_153",
+    "titulo": "Circus Caper (ESP)",
+    "archivo": "bundle_chunk_152.cache"
+  },
+  {
+    "id": "juego_154",
+    "titulo": "Circus Charlie (ESP-Terwilf)",
+    "archivo": "bundle_chunk_153.cache"
+  },
+  {
+    "id": "juego_155",
+    "titulo": "Circus Charlie (ESP-Wave)",
+    "archivo": "bundle_chunk_154.cache"
+  },
+  {
+    "id": "juego_156",
+    "titulo": "City Adventure Touch - Mystery of Triangle (ESP)",
+    "archivo": "bundle_chunk_155.cache"
+  },
+  {
+    "id": "juego_157",
+    "titulo": "City Connection (ESP)",
+    "archivo": "bundle_chunk_156.cache"
+  },
+  {
+    "id": "juego_158",
+    "titulo": "Clash at Demonhead (ESP)",
+    "archivo": "bundle_chunk_157.cache"
+  },
+  {
+    "id": "juego_159",
+    "titulo": "Cliffhanger (ESP)",
+    "archivo": "bundle_chunk_158.cache"
+  },
+  {
+    "id": "juego_160",
+    "titulo": "Clu Clu Land (ESP)",
+    "archivo": "bundle_chunk_159.cache"
+  },
+  {
+    "id": "juego_161",
+    "titulo": "Cobra Command (ESP)",
+    "archivo": "bundle_chunk_160.cache"
+  },
+  {
+    "id": "juego_162",
+    "titulo": "Cobra Triangle (ESP)",
+    "archivo": "bundle_chunk_161.cache"
+  },
+  {
+    "id": "juego_163",
+    "titulo": "Cocoron (ESP)",
+    "archivo": "bundle_chunk_162.cache"
+  },
+  {
+    "id": "juego_164",
+    "titulo": "Code Name - Viper (ESP)",
+    "archivo": "bundle_chunk_163.cache"
+  },
+  {
+    "id": "juego_165",
+    "titulo": "Commando (ESP)",
+    "archivo": "bundle_chunk_164.cache"
+  },
+  {
+    "id": "juego_166",
+    "titulo": "Conquest of the Crystal Palace (ESP-Wave)",
+    "archivo": "bundle_chunk_165.cache"
+  },
+  {
+    "id": "juego_167",
+    "titulo": "Conquest of the Crystal Palace - Matendouji (ESP-Her-Saki)",
+    "archivo": "bundle_chunk_166.cache"
+  },
+  {
+    "id": "juego_168",
+    "titulo": "Contra (J-ESP-Wave)",
+    "archivo": "bundle_chunk_167.cache"
+  },
+  {
+    "id": "juego_169",
+    "titulo": "Contra Force (ESP)",
+    "archivo": "bundle_chunk_168.cache"
+  },
+  {
+    "id": "juego_170",
+    "titulo": "Cool World (ESP)",
+    "archivo": "bundle_chunk_169.cache"
+  },
+  {
+    "id": "juego_171",
+    "titulo": "Corre Benny (Spain) (Gluk Video) (Unl) (ESP)",
+    "archivo": "bundle_chunk_170.cache"
+  },
+  {
+    "id": "juego_172",
+    "titulo": "Cosmic Epsilon (ESP)",
+    "archivo": "bundle_chunk_171.cache"
+  },
+  {
+    "id": "juego_173",
+    "titulo": "Cosmo Genesis (ESP)",
+    "archivo": "bundle_chunk_172.cache"
+  },
+  {
+    "id": "juego_174",
+    "titulo": "Cosmo Police Galivan (ESP)",
+    "archivo": "bundle_chunk_173.cache"
+  },
+  {
+    "id": "juego_175",
+    "titulo": "Cosmos Cop (Spain) (Gluk Video) (Unl-ESP)",
+    "archivo": "bundle_chunk_174.cache"
+  },
+  {
+    "id": "juego_176",
+    "titulo": "Cowboy Kid (ESP)",
+    "archivo": "bundle_chunk_175.cache"
+  },
+  {
+    "id": "juego_177",
+    "titulo": "Crackout (ESP) (Prototype)",
+    "archivo": "bundle_chunk_176.cache"
+  },
+  {
+    "id": "juego_178",
+    "titulo": "Crazy Climber (ESP)",
+    "archivo": "bundle_chunk_177.cache"
+  },
+  {
+    "id": "juego_179",
+    "titulo": "Creatom (Spain) (Gluk Video) (Unl-ESP)",
+    "archivo": "bundle_chunk_178.cache"
+  },
+  {
+    "id": "juego_180",
+    "titulo": "Crisis Force (ESP)",
+    "archivo": "bundle_chunk_179.cache"
+  },
+  {
+    "id": "juego_181",
+    "titulo": "Cross Fire (ESP)",
+    "archivo": "bundle_chunk_180.cache"
+  },
+  {
+    "id": "juego_182",
+    "titulo": "Crystalis (ESP)",
+    "archivo": "bundle_chunk_181.cache"
+  },
+  {
+    "id": "juego_183",
+    "titulo": "Cyber Stadium Series - Base Wars (ESP)",
+    "archivo": "bundle_chunk_182.cache"
+  },
+  {
+    "id": "juego_184",
+    "titulo": "Cybernoid - The Fighting Machine (ESP)",
+    "archivo": "bundle_chunk_183.cache"
+  },
+  {
+    "id": "juego_185",
+    "titulo": "Dai-2-ji Super Robot Taisen (ESP)",
+    "archivo": "bundle_chunk_184.cache"
+  },
+  {
+    "id": "juego_187",
+    "titulo": "Darkman (ESP-2.0)",
+    "archivo": "bundle_chunk_186.cache"
+  },
+  {
+    "id": "juego_188",
+    "titulo": "Darkwing Duck (ESP)",
+    "archivo": "bundle_chunk_187.cache"
+  },
+  {
+    "id": "juego_189",
+    "titulo": "Dash Galaxy in the Alien Asylum (ESP)",
+    "archivo": "bundle_chunk_188.cache"
+  },
+  {
+    "id": "juego_190",
+    "titulo": "Day Dreamin' Davey (ESP)",
+    "archivo": "bundle_chunk_189.cache"
+  },
+  {
+    "id": "juego_191",
+    "titulo": "Dead Fox (ESP-Japon) (Español)",
+    "archivo": "bundle_chunk_190.cache"
+  },
+  {
+    "id": "juego_192",
+    "titulo": "Dead Fox (ESP-Japon) (Tranquilizer Mode)",
+    "archivo": "bundle_chunk_191.cache"
+  },
+  {
+    "id": "juego_193",
+    "titulo": "Deadly Towers (ESP)",
+    "archivo": "bundle_chunk_192.cache"
+  },
+  {
+    "id": "juego_194",
+    "titulo": "Deathbots (ESP) (Unl)",
+    "archivo": "bundle_chunk_193.cache"
+  },
+  {
+    "id": "juego_195",
+    "titulo": "Defender II (ESP)",
+    "archivo": "bundle_chunk_194.cache"
+  },
+  {
+    "id": "juego_196",
+    "titulo": "Defenders of Dynatron City (ESP)",
+    "archivo": "bundle_chunk_195.cache"
+  },
+  {
+    "id": "juego_197",
+    "titulo": "Demon Sword (ESP)",
+    "archivo": "bundle_chunk_196.cache"
+  },
+  {
+    "id": "juego_198",
+    "titulo": "Destination Earthstar (ESP)",
+    "archivo": "bundle_chunk_197.cache"
+  },
+  {
+    "id": "juego_199",
+    "titulo": "Devil Man (ESP)",
+    "archivo": "bundle_chunk_198.cache"
+  },
+  {
+    "id": "juego_200",
+    "titulo": "Devil World (ESP)",
+    "archivo": "bundle_chunk_199.cache"
+  },
+  {
+    "id": "juego_201",
+    "titulo": "Dezaemon (ESP)",
+    "archivo": "bundle_chunk_200.cache"
+  },
+  {
+    "id": "juego_202",
+    "titulo": "Die Hard (ESP)",
+    "archivo": "bundle_chunk_201.cache"
+  },
+  {
+    "id": "juego_203",
+    "titulo": "Dig Dug (ESP)",
+    "archivo": "bundle_chunk_202.cache"
+  },
+  {
+    "id": "juego_204",
+    "titulo": "Dig Dug II - Trouble in Paradise (ESP)",
+    "archivo": "bundle_chunk_203.cache"
+  },
+  {
+    "id": "juego_205",
+    "titulo": "Digger - The Legend of the Lost City (ESP)",
+    "archivo": "bundle_chunk_204.cache"
+  },
+  {
+    "id": "juego_206",
+    "titulo": "Digger T. Rock - The Legend of the Lost City (ESP-Europe)",
+    "archivo": "bundle_chunk_205.cache"
+  },
+  {
+    "id": "juego_207",
+    "titulo": "Digital Devil Story - Megami Tensei (ESP)",
+    "archivo": "bundle_chunk_206.cache"
+  },
+  {
+    "id": "juego_208",
+    "titulo": "Digital Devil Story - Megami Tensei II (ESP)",
+    "archivo": "bundle_chunk_207.cache"
+  },
+  {
+    "id": "juego_209",
+    "titulo": "Doki!Doki! Yuuenchi - Crazy Land Daisakusen (ESP)",
+    "archivo": "bundle_chunk_208.cache"
+  },
+  {
+    "id": "juego_210",
+    "titulo": "Don Doko Don (ESP)",
+    "archivo": "bundle_chunk_209.cache"
+  },
+  {
+    "id": "juego_211",
+    "titulo": "Don Doko Don 2 (ESP)",
+    "archivo": "bundle_chunk_210.cache"
+  },
+  {
+    "id": "juego_212",
+    "titulo": "Donald Land (ESP)",
+    "archivo": "bundle_chunk_211.cache"
+  },
+  {
+    "id": "juego_213",
+    "titulo": "Donkey Kong (ESP)",
+    "archivo": "bundle_chunk_212.cache"
+  },
+  {
+    "id": "juego_214",
+    "titulo": "Donkey Kong 3 (ESP)",
+    "archivo": "bundle_chunk_213.cache"
+  },
+  {
+    "id": "juego_215",
+    "titulo": "Donkey Kong Classics (ESP)",
+    "archivo": "bundle_chunk_214.cache"
+  },
+  {
+    "id": "juego_216",
+    "titulo": "Donkey Kong Jr. (JU-ESP) (PRG1)",
+    "archivo": "bundle_chunk_215.cache"
+  },
+  {
+    "id": "juego_217",
+    "titulo": "Donkey Kong Jr. Math (ESP)",
+    "archivo": "bundle_chunk_216.cache"
+  },
+  {
+    "id": "juego_218",
+    "titulo": "Door Door (ESP)",
+    "archivo": "bundle_chunk_217.cache"
+  },
+  {
+    "id": "juego_219",
+    "titulo": "Doraemon (ESP) (Rev A)",
+    "archivo": "bundle_chunk_218.cache"
+  },
+  {
+    "id": "juego_220",
+    "titulo": "Double Dragon (ESP)",
+    "archivo": "bundle_chunk_219.cache"
+  },
+  {
+    "id": "juego_221",
+    "titulo": "Double Dragon II - The Revenge (ESP) (PRG1)",
+    "archivo": "bundle_chunk_220.cache"
+  },
+  {
+    "id": "juego_222",
+    "titulo": "Double Dragon III - The Sacred Stones (ESP)",
+    "archivo": "bundle_chunk_221.cache"
+  },
+  {
+    "id": "juego_223",
+    "titulo": "Double Dragon Remastered (ESP)",
+    "archivo": "bundle_chunk_222.cache"
+  },
+  {
+    "id": "juego_224",
+    "titulo": "Double Dribble (ESP) (Rev A)",
+    "archivo": "bundle_chunk_223.cache"
+  },
+  {
+    "id": "juego_225",
+    "titulo": "Double Strike (ESP) (AVE) (V1.1) [!]",
+    "archivo": "bundle_chunk_224.cache"
+  },
+  {
+    "id": "juego_226",
+    "titulo": "Dough Boy (ESP)",
+    "archivo": "bundle_chunk_225.cache"
+  },
+  {
+    "id": "juego_227",
+    "titulo": "Dr. Chaos (ESP)",
+    "archivo": "bundle_chunk_226.cache"
+  },
+  {
+    "id": "juego_228",
+    "titulo": "Dr. Jekyll and Mr. Hyde (ESP)",
+    "archivo": "bundle_chunk_227.cache"
+  },
+  {
+    "id": "juego_229",
+    "titulo": "Dr. Jekyll and Mr. Hyde - Houma ga Toki (ESP)",
+    "archivo": "bundle_chunk_228.cache"
+  },
+  {
+    "id": "juego_230",
+    "titulo": "Dr. Mario (ESP) (PRG1)",
+    "archivo": "bundle_chunk_229.cache"
+  },
+  {
+    "id": "juego_231",
+    "titulo": "Dragon Ball - Shen Long no Nazo (ESP)",
+    "archivo": "bundle_chunk_230.cache"
+  },
+  {
+    "id": "juego_232",
+    "titulo": "Dragon Ball Z - Super Butouden 2 (Unl-ESP)",
+    "archivo": "bundle_chunk_231.cache"
+  },
+  {
+    "id": "juego_233",
+    "titulo": "Dragon Ball Z III - Ressen Jinzou Ningen (ESP-TransGen)",
+    "archivo": "bundle_chunk_232.cache"
+  },
+  {
+    "id": "juego_234",
+    "titulo": "Dragon Buster (ESP)",
+    "archivo": "bundle_chunk_233.cache"
+  },
+  {
+    "id": "juego_235",
+    "titulo": "Dragon Buster II - Yami no Fuuin (ESP)",
+    "archivo": "bundle_chunk_234.cache"
+  },
+  {
+    "id": "juego_236",
+    "titulo": "Dragon Fighter (ESP)",
+    "archivo": "bundle_chunk_235.cache"
+  },
+  {
+    "id": "juego_237",
+    "titulo": "Dragon Slayer Jr. Romancia (ESP-Japan)",
+    "archivo": "bundle_chunk_236.cache"
+  },
+  {
+    "id": "juego_238",
+    "titulo": "Dragon Spirit - The New Legend (ESP)",
+    "archivo": "bundle_chunk_237.cache"
+  },
+  {
+    "id": "juego_239",
+    "titulo": "Dragon Warrior (ESP-Rod Merida)",
+    "archivo": "bundle_chunk_238.cache"
+  },
+  {
+    "id": "juego_240",
+    "titulo": "Dragon Warrior (ESP-Wave)",
+    "archivo": "bundle_chunk_239.cache"
+  },
+  {
+    "id": "juego_241",
+    "titulo": "Dragon Warrior III (ESP)",
+    "archivo": "bundle_chunk_240.cache"
+  },
+  {
+    "id": "juego_242",
+    "titulo": "Dragon Warrior IV (ESP)",
+    "archivo": "bundle_chunk_241.cache"
+  },
+  {
+    "id": "juego_243",
+    "titulo": "Dragon's Lair (ESP)",
+    "archivo": "bundle_chunk_242.cache"
+  },
+  {
+    "id": "juego_244",
+    "titulo": "Dream Fighter (Unl) (ESP) ",
+    "archivo": "bundle_chunk_243.cache"
+  },
+  {
+    "id": "juego_245",
+    "titulo": "Dream Master (ESP)",
+    "archivo": "bundle_chunk_244.cache"
+  },
+  {
+    "id": "juego_246",
+    "titulo": "Driar (ESP)",
+    "archivo": "bundle_chunk_245.cache"
+  },
+  {
+    "id": "juego_247",
+    "titulo": "Dropzone (Europe-ESP)",
+    "archivo": "bundle_chunk_246.cache"
+  },
+  {
+    "id": "juego_248",
+    "titulo": "Druaga no Tou (ESP)",
+    "archivo": "bundle_chunk_247.cache"
+  },
+  {
+    "id": "juego_249",
+    "titulo": "Duck Hunt (ESP)",
+    "archivo": "bundle_chunk_248.cache"
+  },
+  {
+    "id": "juego_250",
+    "titulo": "DuckTales (ESP-Darkchaosblast)",
+    "archivo": "bundle_chunk_249.cache"
+  },
+  {
+    "id": "juego_251",
+    "titulo": "DuckTales (ESP-Jate)",
+    "archivo": "bundle_chunk_250.cache"
+  },
+  {
+    "id": "juego_252",
+    "titulo": "DuckTales (ESP-Wave)",
+    "archivo": "bundle_chunk_251.cache"
+  },
+  {
+    "id": "juego_253",
+    "titulo": "DuckTales 2 (ESP)",
+    "archivo": "bundle_chunk_252.cache"
+  },
+  {
+    "id": "juego_254",
+    "titulo": "Dynowarz - The Destruction of Spondylus (ESP)",
+    "archivo": "bundle_chunk_253.cache"
+  },
+  {
+    "id": "juego_255",
+    "titulo": "Earth Bound (ESP-OAD) (Proto)",
+    "archivo": "bundle_chunk_254.cache"
+  },
+  {
+    "id": "juego_256",
+    "titulo": "Earth Bound Zero (ESP-jackic) (Neo Demiforce v1.01 Hack-1)",
+    "archivo": "bundle_chunk_255.cache"
+  },
+  {
+    "id": "juego_257",
+    "titulo": "El Destructor  (Spain) (Gluk Video) (Unl-ESP)",
+    "archivo": "bundle_chunk_256.cache"
+  },
+  {
+    "id": "juego_258",
+    "titulo": "Elevator Action (ESP)",
+    "archivo": "bundle_chunk_257.cache"
+  },
+  {
+    "id": "juego_259",
+    "titulo": "Evil Dead -  ¡Ash vive! (ESP-v0.9b)",
+    "archivo": "bundle_chunk_258.cache"
+  },
+  {
+    "id": "juego_260",
+    "titulo": "Excitebike (ESP)",
+    "archivo": "bundle_chunk_259.cache"
+  },
+  {
+    "id": "juego_261",
+    "titulo": "Exerion (ESP)",
+    "archivo": "bundle_chunk_260.cache"
+  },
+  {
+    "id": "juego_262",
+    "titulo": "F-1 Race (ESP)",
+    "archivo": "bundle_chunk_261.cache"
+  },
+  {
+    "id": "juego_263",
+    "titulo": "F-1 Sensation (ESP)",
+    "archivo": "bundle_chunk_262.cache"
+  },
+  {
+    "id": "juego_264",
+    "titulo": "F15 City War (Spain) (Gluk Video) (Unl-ESP)",
+    "archivo": "bundle_chunk_263.cache"
+  },
+  {
+    "id": "juego_265",
+    "titulo": "Famicom Jump - Eiyuu Retsuden (ESP)",
+    "archivo": "bundle_chunk_264.cache"
+  },
+  {
+    "id": "juego_266",
+    "titulo": "Fantasy Zone (Tengen) (ESP)",
+    "archivo": "bundle_chunk_265.cache"
+  },
+  {
+    "id": "juego_267",
+    "titulo": "Fantasy Zone 2 - The Teardrop of Opa-Opa (ESP)",
+    "archivo": "bundle_chunk_266.cache"
+  },
+  {
+    "id": "juego_268",
+    "titulo": "Faxanadu (ESP-Dirak) (Rev A)",
+    "archivo": "bundle_chunk_267.cache"
+  },
+  {
+    "id": "juego_269",
+    "titulo": "Faxanadu (ESP-Wave) (Rev A)",
+    "archivo": "bundle_chunk_268.cache"
+  },
+  {
+    "id": "juego_270",
+    "titulo": "Felix the Cat (ESP-elbeto57)",
+    "archivo": "bundle_chunk_269.cache"
+  },
+  {
+    "id": "juego_271",
+    "titulo": "Felix the Cat (ESP-Wave)",
+    "archivo": "bundle_chunk_270.cache"
+  },
+  {
+    "id": "juego_272",
+    "titulo": "Fester's Quest (ESP)",
+    "archivo": "bundle_chunk_271.cache"
+  },
+  {
+    "id": "juego_273",
+    "titulo": "Field Combat (ESP)",
+    "archivo": "bundle_chunk_272.cache"
+  },
+  {
+    "id": "juego_274",
+    "titulo": "Fighting Road (ESP)",
+    "archivo": "bundle_chunk_273.cache"
+  },
+  {
+    "id": "juego_275",
+    "titulo": "Final Fantasy (ESP-Cuñaaao)",
+    "archivo": "bundle_chunk_274.cache"
+  },
+  {
+    "id": "juego_276",
+    "titulo": "Final Fantasy (ESP-Ranxev)",
+    "archivo": "bundle_chunk_275.cache"
+  },
+  {
+    "id": "juego_277",
+    "titulo": "Final Fantasy (ESP-Rod Merida)",
+    "archivo": "bundle_chunk_276.cache"
+  },
+  {
+    "id": "juego_278",
+    "titulo": "Final Fantasy II (ESP-Butz Klauser)",
+    "archivo": "bundle_chunk_277.cache"
+  },
+  {
+    "id": "juego_279",
+    "titulo": "Final Fantasy III (ESP-Maeson)",
+    "archivo": "bundle_chunk_278.cache"
+  },
+  {
+    "id": "juego_280",
+    "titulo": "Final Fight 3 (Unl-ESP)",
+    "archivo": "bundle_chunk_279.cache"
+  },
+  {
+    "id": "juego_281",
+    "titulo": "Fire 'n Ice (ESP)",
+    "archivo": "bundle_chunk_280.cache"
+  },
+  {
+    "id": "juego_282",
+    "titulo": "Fire Emblem - Ankoku Ryuu to Hikari no Tsurugi (ESP)",
+    "archivo": "bundle_chunk_281.cache"
+  },
+  {
+    "id": "juego_283",
+    "titulo": "Fire Hawk (ESP) (Unl)",
+    "archivo": "bundle_chunk_282.cache"
+  },
+  {
+    "id": "juego_284",
+    "titulo": "Fist of the North Star (ESP-Crimental)",
+    "archivo": "bundle_chunk_283.cache"
+  },
+  {
+    "id": "juego_285",
+    "titulo": "Fist of the North Star (ESP-Wave)",
+    "archivo": "bundle_chunk_284.cache"
+  },
+  {
+    "id": "juego_286",
+    "titulo": "Fist of the North Star - Hokuto no Ken 2 (ESP-JONNYVILLA2088)",
+    "archivo": "bundle_chunk_285.cache"
+  },
+  {
+    "id": "juego_287",
+    "titulo": "Flappy (ESP)",
+    "archivo": "bundle_chunk_286.cache"
+  },
+  {
+    "id": "juego_288",
+    "titulo": "Flight of the Intruder (ESP)",
+    "archivo": "bundle_chunk_287.cache"
+  },
+  {
+    "id": "juego_289",
+    "titulo": "Flipull - An Exciting Cube Game (ESP)",
+    "archivo": "bundle_chunk_288.cache"
+  },
+  {
+    "id": "juego_290",
+    "titulo": "Flying Dragon - The Secret Scroll (ESP)",
+    "archivo": "bundle_chunk_289.cache"
+  },
+  {
+    "id": "juego_291",
+    "titulo": "Formation Z (ESP)",
+    "archivo": "bundle_chunk_290.cache"
+  },
+  {
+    "id": "juego_292",
+    "titulo": "Formula One - Built To Win (ESP)",
+    "archivo": "bundle_chunk_291.cache"
+  },
+  {
+    "id": "juego_293",
+    "titulo": "Frankenstein - The Monster Returns (ESP)",
+    "archivo": "bundle_chunk_292.cache"
+  },
+  {
+    "id": "juego_294",
+    "titulo": "Freedom Force (ESP)",
+    "archivo": "bundle_chunk_293.cache"
+  },
+  {
+    "id": "juego_295",
+    "titulo": "Friday the 13th (ESP)",
+    "archivo": "bundle_chunk_294.cache"
+  },
+  {
+    "id": "juego_296",
+    "titulo": "From Below (ESP)",
+    "archivo": "bundle_chunk_295.cache"
+  },
+  {
+    "id": "juego_297",
+    "titulo": "Front Line (ESP)",
+    "archivo": "bundle_chunk_296.cache"
+  },
+  {
+    "id": "juego_298",
+    "titulo": "G.I. Joe - A Real American Hero (ESP)",
+    "archivo": "bundle_chunk_297.cache"
+  },
+  {
+    "id": "juego_299",
+    "titulo": "G.I. Joe - The Atlantis Factor (ESP)",
+    "archivo": "bundle_chunk_298.cache"
+  },
+  {
+    "id": "juego_300",
+    "titulo": "Galactic Crusader (Bunch) (ESP)",
+    "archivo": "bundle_chunk_299.cache"
+  },
+  {
+    "id": "juego_301",
+    "titulo": "Galaga - Demons of Death (ESP)",
+    "archivo": "bundle_chunk_300.cache"
+  },
+  {
+    "id": "juego_302",
+    "titulo": "Galaxian (ESP)",
+    "archivo": "bundle_chunk_301.cache"
+  },
+  {
+    "id": "juego_303",
+    "titulo": "Galaxy 5000 (ESP)",
+    "archivo": "bundle_chunk_302.cache"
+  },
+  {
+    "id": "juego_304",
+    "titulo": "Galaxy Patrol (ESP)",
+    "archivo": "bundle_chunk_303.cache"
+  },
+  {
+    "id": "juego_305",
+    "titulo": "Game Party (ESP)",
+    "archivo": "bundle_chunk_304.cache"
+  },
+  {
+    "id": "juego_306",
+    "titulo": "Ganbare Goemon 2 (ESP)",
+    "archivo": "bundle_chunk_305.cache"
+  },
+  {
+    "id": "juego_307",
+    "titulo": "Ganbare Goemon Gaiden - Kieta Ougon Kiseru (ESP)",
+    "archivo": "bundle_chunk_306.cache"
+  },
+  {
+    "id": "juego_308",
+    "titulo": "Ganbare Goemon Gaiden 2 - Tesoros del Mundo (ESP)",
+    "archivo": "bundle_chunk_307.cache"
+  },
+  {
+    "id": "juego_309",
+    "titulo": "Ganbare Goemon! - Karakuri Douchuu (ESP)",
+    "archivo": "bundle_chunk_308.cache"
+  },
+  {
+    "id": "juego_310",
+    "titulo": "Gardman (Asia) (Unl) (ESP)",
+    "archivo": "bundle_chunk_309.cache"
+  },
+  {
+    "id": "juego_311",
+    "titulo": "Garfield - A Week of Garfield (ESP)",
+    "archivo": "bundle_chunk_310.cache"
+  },
+  {
+    "id": "juego_312",
+    "titulo": "Garry Kitchen's Battletank (ESP)",
+    "archivo": "bundle_chunk_311.cache"
+  },
+  {
+    "id": "juego_313",
+    "titulo": "Gatsby (ESP)",
+    "archivo": "bundle_chunk_312.cache"
+  },
+  {
+    "id": "juego_314",
+    "titulo": "Gauntlet (ESP)",
+    "archivo": "bundle_chunk_313.cache"
+  },
+  {
+    "id": "juego_315",
+    "titulo": "Gauntlet II (ESP)",
+    "archivo": "bundle_chunk_314.cache"
+  },
+  {
+    "id": "juego_316",
+    "titulo": "Geimos (ESP)",
+    "archivo": "bundle_chunk_315.cache"
+  },
+  {
+    "id": "juego_317",
+    "titulo": "Gekitotsu Yonku Battle (ESP)",
+    "archivo": "bundle_chunk_316.cache"
+  },
+  {
+    "id": "juego_318",
+    "titulo": "Getsu Fuuma Den (ESP)",
+    "archivo": "bundle_chunk_317.cache"
+  },
+  {
+    "id": "juego_319",
+    "titulo": "Ghostbusters (ESP)",
+    "archivo": "bundle_chunk_318.cache"
+  },
+  {
+    "id": "juego_320",
+    "titulo": "Ghostbusters II (ESP)",
+    "archivo": "bundle_chunk_319.cache"
+  },
+  {
+    "id": "juego_321",
+    "titulo": "Ghosts 'N Goblins (ESP-USA)",
+    "archivo": "bundle_chunk_320.cache"
+  },
+  {
+    "id": "juego_322",
+    "titulo": "Ghosts 'N Goblins - Makaimura (ESP-JAP)",
+    "archivo": "bundle_chunk_321.cache"
+  },
+  {
+    "id": "juego_323",
+    "titulo": "Ghoul School (ESP)",
+    "archivo": "bundle_chunk_322.cache"
+  },
+  {
+    "id": "juego_324",
+    "titulo": "Goal! (ESP-USA)",
+    "archivo": "bundle_chunk_323.cache"
+  },
+  {
+    "id": "juego_325",
+    "titulo": "Godzilla - Monster of Monsters! (ESP)",
+    "archivo": "bundle_chunk_324.cache"
+  },
+  {
+    "id": "juego_326",
+    "titulo": "Golf (ESP)",
+    "archivo": "bundle_chunk_325.cache"
+  },
+  {
+    "id": "juego_327",
+    "titulo": "Golgo 13 - Top Secret Episode (ESP)",
+    "archivo": "bundle_chunk_326.cache"
+  },
+  {
+    "id": "juego_328",
+    "titulo": "Gradius (ESP)",
+    "archivo": "bundle_chunk_327.cache"
+  },
+  {
+    "id": "juego_329",
+    "titulo": "Gradius II (ESP)",
+    "archivo": "bundle_chunk_328.cache"
+  },
+  {
+    "id": "juego_330",
+    "titulo": "Grand Master (ESP)",
+    "archivo": "bundle_chunk_329.cache"
+  },
+  {
+    "id": "juego_331",
+    "titulo": "Green Beret (ESP-Green Beret) (Unl)",
+    "archivo": "bundle_chunk_330.cache"
+  },
+  {
+    "id": "juego_332",
+    "titulo": "Gremlins 2 - The New Batch (ESP)",
+    "archivo": "bundle_chunk_331.cache"
+  },
+  {
+    "id": "juego_333",
+    "titulo": "Guerrilla War (ESP)",
+    "archivo": "bundle_chunk_332.cache"
+  },
+  {
+    "id": "juego_334",
+    "titulo": "Gumshoe (ESP)",
+    "archivo": "bundle_chunk_333.cache"
+  },
+  {
+    "id": "juego_335",
+    "titulo": "Gun Nac (Japan-ESP)",
+    "archivo": "bundle_chunk_334.cache"
+  },
+  {
+    "id": "juego_336",
+    "titulo": "Gun Nac (USA-ESP)",
+    "archivo": "bundle_chunk_335.cache"
+  },
+  {
+    "id": "juego_337",
+    "titulo": "Gun Smoke (ESP)",
+    "archivo": "bundle_chunk_336.cache"
+  },
+  {
+    "id": "juego_338",
+    "titulo": "Gyrodine (ESP)",
+    "archivo": "bundle_chunk_337.cache"
+  },
+  {
+    "id": "juego_339",
+    "titulo": "Gyromite (ESP)",
+    "archivo": "bundle_chunk_338.cache"
+  },
+  {
+    "id": "juego_340",
+    "titulo": "Gyruss (ESP)",
+    "archivo": "bundle_chunk_339.cache"
+  },
+  {
+    "id": "juego_341",
+    "titulo": "Hammerin' Harry (ESP)",
+    "archivo": "bundle_chunk_340.cache"
+  },
+  {
+    "id": "juego_342",
+    "titulo": "Happily Ever After (USA) (Proto) (ESP)",
+    "archivo": "bundle_chunk_341.cache"
+  },
+  {
+    "id": "juego_343",
+    "titulo": "Hatris (ESP)",
+    "archivo": "bundle_chunk_342.cache"
+  },
+  {
+    "id": "juego_344",
+    "titulo": "Heavy Barrel (ESP)",
+    "archivo": "bundle_chunk_343.cache"
+  },
+  {
+    "id": "juego_345",
+    "titulo": "Heavy Shreddin' (ESP)",
+    "archivo": "bundle_chunk_344.cache"
+  },
+  {
+    "id": "juego_346",
+    "titulo": "Hell Fighter (ESP) (Asia) (PAL) (Unl)",
+    "archivo": "bundle_chunk_345.cache"
+  },
+  {
+    "id": "juego_347",
+    "titulo": "Heracles no Eikou II - Titan no Metsubou (ESP)",
+    "archivo": "bundle_chunk_346.cache"
+  },
+  {
+    "id": "juego_348",
+    "titulo": "High Speed (ESP)",
+    "archivo": "bundle_chunk_347.cache"
+  },
+  {
+    "id": "juego_349",
+    "titulo": "Hinotori - Houou Hen - Gaou no Bouken (ESP)",
+    "archivo": "bundle_chunk_348.cache"
+  },
+  {
+    "id": "juego_350",
+    "titulo": "Hit Marmot (ESP) (Unl)",
+    "archivo": "bundle_chunk_349.cache"
+  },
+  {
+    "id": "juego_351",
+    "titulo": "Hogan's Alley (ESP)",
+    "archivo": "bundle_chunk_350.cache"
+  },
+  {
+    "id": "juego_352",
+    "titulo": "Hokuto no Ken (ESP)",
+    "archivo": "bundle_chunk_351.cache"
+  },
+  {
+    "id": "juego_353",
+    "titulo": "Hokuto no Ken 3 - Shin Seiki Souzou Seiken Restuden (ESP-jackic)",
+    "archivo": "bundle_chunk_352.cache"
+  },
+  {
+    "id": "juego_354",
+    "titulo": "Hokuto no Ken 3 - Shin Seiki Souzou Seiken Restuden (ESP-Wave)",
+    "archivo": "bundle_chunk_353.cache"
+  },
+  {
+    "id": "juego_355",
+    "titulo": "Holy Diver (ESP)",
+    "archivo": "bundle_chunk_354.cache"
+  },
+  {
+    "id": "juego_356",
+    "titulo": "Home Alone (ESP) (REVA) [!]",
+    "archivo": "bundle_chunk_355.cache"
+  },
+  {
+    "id": "juego_357",
+    "titulo": "Honoo no Toukyuuji - Dodge Danpei (ESP)",
+    "archivo": "bundle_chunk_356.cache"
+  },
+  {
+    "id": "juego_358",
+    "titulo": "Hook (ESP)",
+    "archivo": "bundle_chunk_357.cache"
+  },
+  {
+    "id": "juego_359",
+    "titulo": "Hoops (ESP)",
+    "archivo": "bundle_chunk_358.cache"
+  },
+  {
+    "id": "juego_360",
+    "titulo": "Hudson Hawk (ESP)",
+    "archivo": "bundle_chunk_359.cache"
+  },
+  {
+    "id": "juego_361",
+    "titulo": "Hudson's Adventure Island (ESP)",
+    "archivo": "bundle_chunk_360.cache"
+  },
+  {
+    "id": "juego_362",
+    "titulo": "Hudson's Adventure Island II (ESP)",
+    "archivo": "bundle_chunk_361.cache"
+  },
+  {
+    "id": "juego_363",
+    "titulo": "Hudson's Adventure Island III (ESP)",
+    "archivo": "bundle_chunk_362.cache"
+  },
+  {
+    "id": "juego_364",
+    "titulo": "Hudson's Adventure Island IV - Takahashi Meijin no Bouken Shima IV (ESP-jackic)",
+    "archivo": "bundle_chunk_363.cache"
+  },
+  {
+    "id": "juego_365",
+    "titulo": "Hudson's Adventure Island IV - Takahashi Meijin no Bouken Shima IV (ESP-Wave)",
+    "archivo": "bundle_chunk_364.cache"
+  },
+  {
+    "id": "juego_366",
+    "titulo": "Hydlide (ESP)",
+    "archivo": "bundle_chunk_365.cache"
+  },
+  {
+    "id": "juego_367",
+    "titulo": "I Love Softball (ESP)",
+    "archivo": "bundle_chunk_366.cache"
+  },
+  {
+    "id": "juego_368",
+    "titulo": "Ice Climber (ESP)",
+    "archivo": "bundle_chunk_367.cache"
+  },
+  {
+    "id": "juego_369",
+    "titulo": "Ice Hockey (ESP)",
+    "archivo": "bundle_chunk_368.cache"
+  },
+  {
+    "id": "juego_370",
+    "titulo": "Idol Hakkenden (ESP)",
+    "archivo": "bundle_chunk_369.cache"
+  },
+  {
+    "id": "juego_371",
+    "titulo": "Ikari III - The Rescue (ESP)",
+    "archivo": "bundle_chunk_370.cache"
+  },
+  {
+    "id": "juego_372",
+    "titulo": "Ikari Warriors (ESP)",
+    "archivo": "bundle_chunk_371.cache"
+  },
+  {
+    "id": "juego_373",
+    "titulo": "Ikari Warriors II - Victory Road (ESP)",
+    "archivo": "bundle_chunk_372.cache"
+  },
+  {
+    "id": "juego_374",
+    "titulo": "Ikki (ESP)",
+    "archivo": "bundle_chunk_373.cache"
+  },
+  {
+    "id": "juego_375",
+    "titulo": "Image Fight (ESP)",
+    "archivo": "bundle_chunk_374.cache"
+  },
+  {
+    "id": "juego_376",
+    "titulo": "Impossible Mission II (ESP)",
+    "archivo": "bundle_chunk_375.cache"
+  },
+  {
+    "id": "juego_377",
+    "titulo": "Indiana Jones and the Last Crusade (ESP) (Taito)",
+    "archivo": "bundle_chunk_376.cache"
+  },
+  {
+    "id": "juego_378",
+    "titulo": "Indiana Jones and the Last Crusade (ESP) (UBISOFT)",
+    "archivo": "bundle_chunk_377.cache"
+  },
+  {
+    "id": "juego_379",
+    "titulo": "Indiana Jones and the Temple of Doom (ESP)",
+    "archivo": "bundle_chunk_378.cache"
+  },
+  {
+    "id": "juego_380",
+    "titulo": "Indivisible (ESP)",
+    "archivo": "bundle_chunk_379.cache"
+  },
+  {
+    "id": "juego_381",
+    "titulo": "Insector X (ESP)",
+    "archivo": "bundle_chunk_380.cache"
+  },
+  {
+    "id": "juego_382",
+    "titulo": "Iron Tank - The Invasion of Normandy (ESP)",
+    "archivo": "bundle_chunk_381.cache"
+  },
+  {
+    "id": "juego_383",
+    "titulo": "Ironsword - Wizards & Warriors II (ESP)",
+    "archivo": "bundle_chunk_382.cache"
+  },
+  {
+    "id": "juego_384",
+    "titulo": "Isolated Warrior (ESP)",
+    "archivo": "bundle_chunk_383.cache"
+  },
+  {
+    "id": "juego_385",
+    "titulo": "Ivan 'Ironman' Stewart's Super Off Road (ESP)",
+    "archivo": "bundle_chunk_384.cache"
+  },
+  {
+    "id": "juego_386",
+    "titulo": "Jackal (ESP-Wave-2.0-USA)",
+    "archivo": "bundle_chunk_385.cache"
+  },
+  {
+    "id": "juego_387",
+    "titulo": "Jackie Chan's Action Kung Fu (ESP)",
+    "archivo": "bundle_chunk_386.cache"
+  },
+  {
+    "id": "juego_388",
+    "titulo": "Jajamaru no Daibouken (ESP)",
+    "archivo": "bundle_chunk_387.cache"
+  },
+  {
+    "id": "juego_389",
+    "titulo": "Janggun-ui Adeul (Korea) (Unl) (ESP)",
+    "archivo": "bundle_chunk_388.cache"
+  },
+  {
+    "id": "juego_390",
+    "titulo": "Jaws (ESP)",
+    "archivo": "bundle_chunk_389.cache"
+  },
+  {
+    "id": "juego_391",
+    "titulo": "JJ (ESP)",
+    "archivo": "bundle_chunk_390.cache"
+  },
+  {
+    "id": "juego_392",
+    "titulo": "Joe & Mac - Caveman Ninja (ESP)",
+    "archivo": "bundle_chunk_391.cache"
+  },
+  {
+    "id": "juego_393",
+    "titulo": "Journey to Silius (ESP)",
+    "archivo": "bundle_chunk_392.cache"
+  },
+  {
+    "id": "juego_394",
+    "titulo": "Journey to Silius (ESP-JONNYVILLA2088)",
+    "archivo": "bundle_chunk_393.cache"
+  },
+  {
+    "id": "juego_395",
+    "titulo": "Journey to Silius (ESP-Terwilf)",
+    "archivo": "bundle_chunk_394.cache"
+  },
+  {
+    "id": "juego_396",
+    "titulo": "Joust (ESP)",
+    "archivo": "bundle_chunk_395.cache"
+  },
+  {
+    "id": "juego_397",
+    "titulo": "Joy Mech Fight (ESP)",
+    "archivo": "bundle_chunk_396.cache"
+  },
+  {
+    "id": "juego_398",
+    "titulo": "Jumpin' Kid - Jack to Mame no Ki Monogatari (ESP)",
+    "archivo": "bundle_chunk_397.cache"
+  },
+  {
+    "id": "juego_399",
+    "titulo": "Jurassic Park (ESP)",
+    "archivo": "bundle_chunk_398.cache"
+  },
+  {
+    "id": "juego_400",
+    "titulo": "Just Breed (ESP)",
+    "archivo": "bundle_chunk_399.cache"
+  },
+  {
+    "id": "juego_401",
+    "titulo": "Juuouki (ESP)",
+    "archivo": "bundle_chunk_400.cache"
+  },
+  {
+    "id": "juego_402",
+    "titulo": "Kabuki - Quantum Fighter (ESP)",
+    "archivo": "bundle_chunk_401.cache"
+  },
+  {
+    "id": "juego_403",
+    "titulo": "Kaiketsu Yancha Maru 2 - Karakuri Land (ESP)",
+    "archivo": "bundle_chunk_402.cache"
+  },
+  {
+    "id": "juego_404",
+    "titulo": "Kaiketsu Yancha Maru 3 - Taiketsu! Zouringen (ESP)",
+    "archivo": "bundle_chunk_403.cache"
+  },
+  {
+    "id": "juego_405",
+    "titulo": "Karate Champ (ESP) (Rev A)",
+    "archivo": "bundle_chunk_404.cache"
+  },
+  {
+    "id": "juego_406",
+    "titulo": "Karateka (ESP)",
+    "archivo": "bundle_chunk_405.cache"
+  },
+  {
+    "id": "juego_407",
+    "titulo": "Karnov (ESP) (Rev 1)",
+    "archivo": "bundle_chunk_406.cache"
+  },
+  {
+    "id": "juego_408",
+    "titulo": "Kero Kero Keroppi no Daibouken (ESP)",
+    "archivo": "bundle_chunk_407.cache"
+  },
+  {
+    "id": "juego_409",
+    "titulo": "Kero Kero Keroppi no Daibouken 2 - Donuts Ike wa Oosawagi! (ESP)",
+    "archivo": "bundle_chunk_408.cache"
+  },
+  {
+    "id": "juego_410",
+    "titulo": "Keroppi to Keroriinu no Splash Bomb! (ESP)",
+    "archivo": "bundle_chunk_409.cache"
+  },
+  {
+    "id": "juego_411",
+    "titulo": "Ki no Bouken - The Quest of Ki (ESP)",
+    "archivo": "bundle_chunk_410.cache"
+  },
+  {
+    "id": "juego_412",
+    "titulo": "Kick Master (ESP)",
+    "archivo": "bundle_chunk_411.cache"
+  },
+  {
+    "id": "juego_413",
+    "titulo": "Kickle Cubicle (ESP)",
+    "archivo": "bundle_chunk_412.cache"
+  },
+  {
+    "id": "juego_414",
+    "titulo": "Kid Icarus (ESP)",
+    "archivo": "bundle_chunk_413.cache"
+  },
+  {
+    "id": "juego_415",
+    "titulo": "Kid Icarus (ESP-Pikachumanson)",
+    "archivo": "bundle_chunk_414.cache"
+  },
+  {
+    "id": "juego_416",
+    "titulo": "Kid Klown en Night Mayor World - Mickey Mouse III - Yume Fuusen (ESP)",
+    "archivo": "bundle_chunk_415.cache"
+  },
+  {
+    "id": "juego_417",
+    "titulo": "Kid Klown ESP)",
+    "archivo": "bundle_chunk_416.cache"
+  },
+  {
+    "id": "juego_418",
+    "titulo": "Kid Kool and the Quest for the 7 Wonder Herbs (ESP)",
+    "archivo": "bundle_chunk_417.cache"
+  },
+  {
+    "id": "juego_419",
+    "titulo": "Kid Niki - Radical Ninja (ESP) (Rev A)",
+    "archivo": "bundle_chunk_418.cache"
+  },
+  {
+    "id": "juego_420",
+    "titulo": "King Kong 2 - Ikari no Megaton Punch (ESP)",
+    "archivo": "bundle_chunk_419.cache"
+  },
+  {
+    "id": "juego_421",
+    "titulo": "King Neptune's Adventure (ESP)",
+    "archivo": "bundle_chunk_420.cache"
+  },
+  {
+    "id": "juego_422",
+    "titulo": "King's Knight (ESP)",
+    "archivo": "bundle_chunk_421.cache"
+  },
+  {
+    "id": "juego_423",
+    "titulo": "Kirby's Adventure (ESP) (Rev A)",
+    "archivo": "bundle_chunk_422.cache"
+  },
+  {
+    "id": "juego_424",
+    "titulo": "Kiwi Kraze - A Bird-Brained Adventure! (ESP)",
+    "archivo": "bundle_chunk_423.cache"
+  },
+  {
+    "id": "juego_425",
+    "titulo": "Knight Rider (ESP)",
+    "archivo": "bundle_chunk_424.cache"
+  },
+  {
+    "id": "juego_426",
+    "titulo": "Koko Adventure (ESP) (Korea) (Unl)",
+    "archivo": "bundle_chunk_425.cache"
+  },
+  {
+    "id": "juego_427",
+    "titulo": "Konami Hyper Soccer (ESP-Europe)",
+    "archivo": "bundle_chunk_426.cache"
+  },
+  {
+    "id": "juego_428",
+    "titulo": "Kouryuu Densetsu Villgust Gaiden (ESP)",
+    "archivo": "bundle_chunk_427.cache"
+  },
+  {
+    "id": "juego_429",
+    "titulo": "Krusty's Fun House (ESP)",
+    "archivo": "bundle_chunk_428.cache"
+  },
+  {
+    "id": "juego_430",
+    "titulo": "Kung Fu (ESP-Manuel Riguera)",
+    "archivo": "bundle_chunk_429.cache"
+  },
+  {
+    "id": "juego_431",
+    "titulo": "Kung Fu (ESP-Pikachumanson)",
+    "archivo": "bundle_chunk_430.cache"
+  },
+  {
+    "id": "juego_432",
+    "titulo": "Kung Fu (ESP-USA)",
+    "archivo": "bundle_chunk_431.cache"
+  },
+  {
+    "id": "juego_433",
+    "titulo": "Kung-Fu Heroes (ESP)",
+    "archivo": "bundle_chunk_432.cache"
+  },
+  {
+    "id": "juego_434",
+    "titulo": "Kunio-kun no Nekketsu Soccer League (ESP-Butz Klauser)",
+    "archivo": "bundle_chunk_433.cache"
+  },
+  {
+    "id": "juego_435",
+    "titulo": "Kunio-kun no Nekketsu Soccer League (ESP-TransGen)",
+    "archivo": "bundle_chunk_434.cache"
+  },
+  {
+    "id": "juego_436",
+    "titulo": "Kyouryuu Sentai Zyuranger (ESP)",
+    "archivo": "bundle_chunk_435.cache"
+  },
+  {
+    "id": "juego_437",
+    "titulo": "La Gran Aventura Submarina  (ESP) (Unl)",
+    "archivo": "bundle_chunk_436.cache"
+  },
+  {
+    "id": "juego_438",
+    "titulo": "Lagrange Point (ESP)",
+    "archivo": "bundle_chunk_437.cache"
+  },
+  {
+    "id": "juego_439",
+    "titulo": "Lasalle Ishii no Child's Quest (ESP)",
+    "archivo": "bundle_chunk_438.cache"
+  },
+  {
+    "id": "juego_440",
+    "titulo": "Laser Invasion (ESP)",
+    "archivo": "bundle_chunk_439.cache"
+  },
+  {
+    "id": "juego_441",
+    "titulo": "Layla (ESP)",
+    "archivo": "bundle_chunk_440.cache"
+  },
+  {
+    "id": "juego_442",
+    "titulo": "Legacy of the Wizard (ESP)",
+    "archivo": "bundle_chunk_441.cache"
+  },
+  {
+    "id": "juego_443",
+    "titulo": "Legendary Wings (ESP)",
+    "archivo": "bundle_chunk_442.cache"
+  },
+  {
+    "id": "juego_444",
+    "titulo": "Lemmings (ESP)",
+    "archivo": "bundle_chunk_443.cache"
+  },
+  {
+    "id": "juego_445",
+    "titulo": "Lethal Weapon (ESP)",
+    "archivo": "bundle_chunk_444.cache"
+  },
+  {
+    "id": "juego_446",
+    "titulo": "Life Force (ESP-USA)",
+    "archivo": "bundle_chunk_445.cache"
+  },
+  {
+    "id": "juego_447",
+    "titulo": "Life Force - Salamander (ESP-JAP)",
+    "archivo": "bundle_chunk_446.cache"
+  },
+  {
+    "id": "juego_448",
+    "titulo": "Little Nemo - The Dream Master (ESP-2.0)",
+    "archivo": "bundle_chunk_447.cache"
+  },
+  {
+    "id": "juego_449",
+    "titulo": "Little Samson (ESP)",
+    "archivo": "bundle_chunk_448.cache"
+  },
+  {
+    "id": "juego_450",
+    "titulo": "Locksmith (ESP) (Asia) (Ja) (PAL) (Unl)",
+    "archivo": "bundle_chunk_449.cache"
+  },
+  {
+    "id": "juego_451",
+    "titulo": "Lode Runner (ESP)",
+    "archivo": "bundle_chunk_450.cache"
+  },
+  {
+    "id": "juego_452",
+    "titulo": "Loopz (ESP)",
+    "archivo": "bundle_chunk_451.cache"
+  },
+  {
+    "id": "juego_453",
+    "titulo": "Los Gatos Samurai - Kyattou Ninden Teyandee (ESP)",
+    "archivo": "bundle_chunk_452.cache"
+  },
+  {
+    "id": "juego_454",
+    "titulo": "Lot Lot (ESP)",
+    "archivo": "bundle_chunk_453.cache"
+  },
+  {
+    "id": "juego_455",
+    "titulo": "Low G Man - The Low Gravity Man (ESP)",
+    "archivo": "bundle_chunk_454.cache"
+  },
+  {
+    "id": "juego_456",
+    "titulo": "Lunar Ball (ESP-Terwilf)",
+    "archivo": "bundle_chunk_455.cache"
+  },
+  {
+    "id": "juego_457",
+    "titulo": "Lunar Pool (ESP-Wave)",
+    "archivo": "bundle_chunk_456.cache"
+  },
+  {
+    "id": "juego_458",
+    "titulo": "Lupin Sansei - Pandora no Isan (ESP)",
+    "archivo": "bundle_chunk_457.cache"
+  },
+  {
+    "id": "juego_459",
+    "titulo": "M.U.S.C.L.E.  (ESP-JAP)",
+    "archivo": "bundle_chunk_458.cache"
+  },
+  {
+    "id": "juego_460",
+    "titulo": "M.U.S.C.L.E. (ESP-USA)",
+    "archivo": "bundle_chunk_459.cache"
+  },
+  {
+    "id": "juego_461",
+    "titulo": "Mach Rider (ESP)",
+    "archivo": "bundle_chunk_460.cache"
+  },
+  {
+    "id": "juego_462",
+    "titulo": "Machine Cave (ESP)",
+    "archivo": "bundle_chunk_461.cache"
+  },
+  {
+    "id": "juego_463",
+    "titulo": "Mafat Conspiracy - Golgo 13 (ESP)",
+    "archivo": "bundle_chunk_462.cache"
+  },
+  {
+    "id": "juego_464",
+    "titulo": "Magic Block (Unl) (ESP)",
+    "archivo": "bundle_chunk_463.cache"
+  },
+  {
+    "id": "juego_465",
+    "titulo": "Magic Carpet 1001 (ESP) (Unl)",
+    "archivo": "bundle_chunk_464.cache"
+  },
+  {
+    "id": "juego_466",
+    "titulo": "Magic Darts (ESP)",
+    "archivo": "bundle_chunk_465.cache"
+  },
+  {
+    "id": "juego_467",
+    "titulo": "Magic Dragon (ESP) (Unl)",
+    "archivo": "bundle_chunk_466.cache"
+  },
+  {
+    "id": "juego_468",
+    "titulo": "Magic Jewelry (ESP-HarvettFox96) (Asia) (Unl)",
+    "archivo": "bundle_chunk_467.cache"
+  },
+  {
+    "id": "juego_469",
+    "titulo": "Magic Jewelry (ESP-Wave) (Asia) (Unl)",
+    "archivo": "bundle_chunk_468.cache"
+  },
+  {
+    "id": "juego_470",
+    "titulo": "Magic John (ESP)",
+    "archivo": "bundle_chunk_469.cache"
+  },
+  {
+    "id": "juego_471",
+    "titulo": "Magmax (ESP)",
+    "archivo": "bundle_chunk_470.cache"
+  },
+  {
+    "id": "juego_472",
+    "titulo": "Makai Island (ESP) (Proto)",
+    "archivo": "bundle_chunk_471.cache"
+  },
+  {
+    "id": "juego_473",
+    "titulo": "Maniac Mansion (ESP) (Prototype)",
+    "archivo": "bundle_chunk_472.cache"
+  },
+  {
+    "id": "juego_474",
+    "titulo": "Mappy (ESP)",
+    "archivo": "bundle_chunk_473.cache"
+  },
+  {
+    "id": "juego_475",
+    "titulo": "Mappy-Land (ESP)",
+    "archivo": "bundle_chunk_474.cache"
+  },
+  {
+    "id": "juego_476",
+    "titulo": "Marble Madness (ESP)",
+    "archivo": "bundle_chunk_475.cache"
+  },
+  {
+    "id": "juego_477",
+    "titulo": "Mario Bros. (ESP)",
+    "archivo": "bundle_chunk_476.cache"
+  },
+  {
+    "id": "juego_478",
+    "titulo": "Mario W-256 (SMB1 Hack)",
+    "archivo": "bundle_chunk_477.cache"
+  },
+  {
+    "id": "juego_479",
+    "titulo": "Master Chu and the Drunkard Hu (ESP) (Unl)",
+    "archivo": "bundle_chunk_478.cache"
+  },
+  {
+    "id": "juego_480",
+    "titulo": "Master Shooter (ESP) (Asia) (Unl)",
+    "archivo": "bundle_chunk_479.cache"
+  },
+  {
+    "id": "juego_481",
+    "titulo": "Mechanized Attack (ESP)",
+    "archivo": "bundle_chunk_480.cache"
+  },
+  {
+    "id": "juego_482",
+    "titulo": "Mega Man (ESP-Blade133bo)",
+    "archivo": "bundle_chunk_481.cache"
+  },
+  {
+    "id": "juego_483",
+    "titulo": "Mega Man (ESP-Wave)",
+    "archivo": "bundle_chunk_482.cache"
+  },
+  {
+    "id": "juego_484",
+    "titulo": "Mega Man - Rockman (JAP-ESP-danuffo)",
+    "archivo": "bundle_chunk_483.cache"
+  },
+  {
+    "id": "juego_485",
+    "titulo": "Mega Man 2 (ESP-Blade133bo)",
+    "archivo": "bundle_chunk_484.cache"
+  },
+  {
+    "id": "juego_486",
+    "titulo": "Mega Man 2 - Rockman 2 - Dr. Wily no Nazo (ESP-JAP-danuffo)",
+    "archivo": "bundle_chunk_485.cache"
+  },
+  {
+    "id": "juego_487",
+    "titulo": "Mega Man 3 (ESP-Blade133bo)",
+    "archivo": "bundle_chunk_486.cache"
+  },
+  {
+    "id": "juego_488",
+    "titulo": "Mega Man 3 (ESP-JONNYVILLA2088)",
+    "archivo": "bundle_chunk_487.cache"
+  },
+  {
+    "id": "juego_489",
+    "titulo": "Mega Man 4 (ESP-Blade133bo)",
+    "archivo": "bundle_chunk_488.cache"
+  },
+  {
+    "id": "juego_490",
+    "titulo": "Mega Man 4 (ESP-Wave) (Rev A)",
+    "archivo": "bundle_chunk_489.cache"
+  },
+  {
+    "id": "juego_491",
+    "titulo": "Mega Man 5 (ESP-Blade133bo)",
+    "archivo": "bundle_chunk_490.cache"
+  },
+  {
+    "id": "juego_492",
+    "titulo": "Mega Man 5 (ESP-StalkerMaestro)",
+    "archivo": "bundle_chunk_491.cache"
+  },
+  {
+    "id": "juego_493",
+    "titulo": "Mega Man 6 (ESP-Blade133bo)",
+    "archivo": "bundle_chunk_492.cache"
+  },
+  {
+    "id": "juego_494",
+    "titulo": "Megaman II (ESP-Wave)",
+    "archivo": "bundle_chunk_493.cache"
+  },
+  {
+    "id": "juego_495",
+    "titulo": "Megaman III (ESP-Wave)",
+    "archivo": "bundle_chunk_494.cache"
+  },
+  {
+    "id": "juego_496",
+    "titulo": "Megaman III (ESP-Wave-Megaman III Improvement Hack)",
+    "archivo": "bundle_chunk_495.cache"
+  },
+  {
+    "id": "juego_497",
+    "titulo": "Megaman V (ESP-Wave)",
+    "archivo": "bundle_chunk_496.cache"
+  },
+  {
+    "id": "juego_498",
+    "titulo": "Megaman VI (ESP-Wave)",
+    "archivo": "bundle_chunk_497.cache"
+  },
+  {
+    "id": "juego_499",
+    "titulo": "Megaman VI - Rockman 6 - Shijou Saidai no Tatakai!! (ESP-SotoXlX)",
+    "archivo": "bundle_chunk_498.cache"
+  },
+  {
+    "id": "juego_500",
+    "titulo": "Menace Beach (ESP) (Unl)",
+    "archivo": "bundle_chunk_499.cache"
+  },
+  {
+    "id": "juego_501",
+    "titulo": "Mendel Palace (ESP)",
+    "archivo": "bundle_chunk_500.cache"
+  },
+  {
+    "id": "juego_502",
+    "titulo": "Metal Force (Korea) (ESP-Unl)",
+    "archivo": "bundle_chunk_501.cache"
+  },
+  {
+    "id": "juego_503",
+    "titulo": "Metal Gear (ESP-Julian L.)",
+    "archivo": "bundle_chunk_502.cache"
+  },
+  {
+    "id": "juego_504",
+    "titulo": "Metal Gear (ESP-Wave)",
+    "archivo": "bundle_chunk_503.cache"
+  },
+  {
+    "id": "juego_505",
+    "titulo": "Metal Slader Glory (ESP)",
+    "archivo": "bundle_chunk_504.cache"
+  },
+  {
+    "id": "juego_506",
+    "titulo": "Metal Storm (ESP)",
+    "archivo": "bundle_chunk_505.cache"
+  },
+  {
+    "id": "juego_507",
+    "titulo": "Metro-Cross (ESP)",
+    "archivo": "bundle_chunk_506.cache"
+  },
+  {
+    "id": "juego_508",
+    "titulo": "Metroid (ESP)",
+    "archivo": "bundle_chunk_507.cache"
+  },
+  {
+    "id": "juego_509",
+    "titulo": "Mickey Mousecapade (ESP)",
+    "archivo": "bundle_chunk_508.cache"
+  },
+  {
+    "id": "juego_510",
+    "titulo": "Micro Machines (Camerica) (ESP)",
+    "archivo": "bundle_chunk_509.cache"
+  },
+  {
+    "id": "juego_511",
+    "titulo": "MiG 29 - Soviet Fighter (ESP) (Unl)",
+    "archivo": "bundle_chunk_510.cache"
+  },
+  {
+    "id": "juego_512",
+    "titulo": "Mighty Bomb Jack (ESP)",
+    "archivo": "bundle_chunk_511.cache"
+  },
+  {
+    "id": "juego_513",
+    "titulo": "Mighty Final Fight (ESP)",
+    "archivo": "bundle_chunk_512.cache"
+  },
+  {
+    "id": "juego_514",
+    "titulo": "Mike Tyson's Punch Out!! - Punch-Out!! (ESP-Wave)",
+    "archivo": "bundle_chunk_513.cache"
+  },
+  {
+    "id": "juego_515",
+    "titulo": "Mike Tyson's Punch-Out!! (ESP-Wave) (PRG1)",
+    "archivo": "bundle_chunk_514.cache"
+  },
+  {
+    "id": "juego_516",
+    "titulo": "Millipede (ESP)",
+    "archivo": "bundle_chunk_515.cache"
+  },
+  {
+    "id": "juego_517",
+    "titulo": "Milon's Secret Castle (ESP)",
+    "archivo": "bundle_chunk_516.cache"
+  },
+  {
+    "id": "juego_518",
+    "titulo": "Mini Putt (ESP)",
+    "archivo": "bundle_chunk_517.cache"
+  },
+  {
+    "id": "juego_519",
+    "titulo": "Miracle Ropit's - 2100 Nen no Daibouken (ESP)",
+    "archivo": "bundle_chunk_518.cache"
+  },
+  {
+    "id": "juego_520",
+    "titulo": "Mission Cobra (Bunch) (ESP)",
+    "archivo": "bundle_chunk_519.cache"
+  },
+  {
+    "id": "juego_521",
+    "titulo": "Mission Impossible (ESP)",
+    "archivo": "bundle_chunk_520.cache"
+  },
+  {
+    "id": "juego_522",
+    "titulo": "Mitsume ga Tooru (ESP)",
+    "archivo": "bundle_chunk_521.cache"
+  },
+  {
+    "id": "juego_523",
+    "titulo": "Moai-kun (ESP)",
+    "archivo": "bundle_chunk_522.cache"
+  },
+  {
+    "id": "juego_524",
+    "titulo": "Mobile Suit Z Gundam - Hot Scramble (ESP)",
+    "archivo": "bundle_chunk_523.cache"
+  },
+  {
+    "id": "juego_525",
+    "titulo": "Moero!! Juudou Warriors (ESP)",
+    "archivo": "bundle_chunk_524.cache"
+  },
+  {
+    "id": "juego_526",
+    "titulo": "Monopoly (ESP)",
+    "archivo": "bundle_chunk_525.cache"
+  },
+  {
+    "id": "juego_527",
+    "titulo": "Monster in My Pocket (ESP-2.0)",
+    "archivo": "bundle_chunk_526.cache"
+  },
+  {
+    "id": "juego_528",
+    "titulo": "Monster Party (ESP)",
+    "archivo": "bundle_chunk_527.cache"
+  },
+  {
+    "id": "juego_529",
+    "titulo": "Monster Party - Parody World - Monster Party (Japan) (Proto)",
+    "archivo": "bundle_chunk_528.cache"
+  },
+  {
+    "id": "juego_530",
+    "titulo": "Monster Truck Rally (ESP)",
+    "archivo": "bundle_chunk_529.cache"
+  },
+  {
+    "id": "juego_531",
+    "titulo": "Moon Crystal (ESP-Wave)",
+    "archivo": "bundle_chunk_530.cache"
+  },
+  {
+    "id": "juego_532",
+    "titulo": "Moon Crystal (JONNYVILLA2088)",
+    "archivo": "bundle_chunk_531.cache"
+  },
+  {
+    "id": "juego_533",
+    "titulo": "Moon Ranger (ESP)",
+    "archivo": "bundle_chunk_532.cache"
+  },
+  {
+    "id": "juego_534",
+    "titulo": "Motocross Champion (ESP)",
+    "archivo": "bundle_chunk_533.cache"
+  },
+  {
+    "id": "juego_535",
+    "titulo": "MotorCity Patrol (ESP)",
+    "archivo": "bundle_chunk_534.cache"
+  },
+  {
+    "id": "juego_536",
+    "titulo": "Mottomo Abunai Deka (ESP-Japan)",
+    "archivo": "bundle_chunk_535.cache"
+  },
+  {
+    "id": "juego_537",
+    "titulo": "Mr. Gimmick (ESP-Wave-Euro)",
+    "archivo": "bundle_chunk_536.cache"
+  },
+  {
+    "id": "juego_538",
+    "titulo": "Mr. Gimmick! (ESP- Jap-Wave)",
+    "archivo": "bundle_chunk_537.cache"
+  },
+  {
+    "id": "juego_539",
+    "titulo": "Ms. Pac-Man (ESP)",
+    "archivo": "bundle_chunk_538.cache"
+  },
+  {
+    "id": "juego_540",
+    "titulo": "Muppet Adventure - Chaos at the Carnival (ESP)",
+    "archivo": "bundle_chunk_539.cache"
+  },
+  {
+    "id": "juego_541",
+    "titulo": "Mystery Quest (ESP)",
+    "archivo": "bundle_chunk_540.cache"
+  },
+  {
+    "id": "juego_542",
+    "titulo": "Nangoku Shirei!! - Spy vs Spy (ESP)",
+    "archivo": "bundle_chunk_541.cache"
+  },
+  {
+    "id": "juego_543",
+    "titulo": "NARC (ESP)",
+    "archivo": "bundle_chunk_542.cache"
+  },
+  {
+    "id": "juego_544",
+    "titulo": "Nekketsu! Street Basket - Ganbare Dunk Heroes (ESP)",
+    "archivo": "bundle_chunk_543.cache"
+  },
+  {
+    "id": "juego_545",
+    "titulo": "New Ghostbusters II (ESP)",
+    "archivo": "bundle_chunk_544.cache"
+  },
+  {
+    "id": "juego_546",
+    "titulo": "Nightshade (ESP)",
+    "archivo": "bundle_chunk_545.cache"
+  },
+  {
+    "id": "juego_547",
+    "titulo": "Ninja Crusaders (ESP)",
+    "archivo": "bundle_chunk_546.cache"
+  },
+  {
+    "id": "juego_548",
+    "titulo": "Ninja Crusaders - Ryuuga (ESP-Japan)",
+    "archivo": "bundle_chunk_547.cache"
+  },
+  {
+    "id": "juego_549",
+    "titulo": "Ninja Gaiden (ESP-ARG-Julian L.)",
+    "archivo": "bundle_chunk_548.cache"
+  },
+  {
+    "id": "juego_550",
+    "titulo": "Ninja Gaiden (ESP-Chrono Traducciones)",
+    "archivo": "bundle_chunk_549.cache"
+  },
+  {
+    "id": "juego_551",
+    "titulo": "Ninja Gaiden (ESP-Terwilf)",
+    "archivo": "bundle_chunk_550.cache"
+  },
+  {
+    "id": "juego_552",
+    "titulo": "Ninja Gaiden (ESP-Wave)",
+    "archivo": "bundle_chunk_551.cache"
+  },
+  {
+    "id": "juego_553",
+    "titulo": "Ninja Gaiden II - The Dark Sword of Chaos (ESP-Terwilf)",
+    "archivo": "bundle_chunk_552.cache"
+  },
+  {
+    "id": "juego_554",
+    "titulo": "Ninja Gaiden II - The Dark Sword of Chaos (ESP-TransGen)",
+    "archivo": "bundle_chunk_553.cache"
+  },
+  {
+    "id": "juego_555",
+    "titulo": "Ninja Gaiden II - The Dark Sword of Chaos (ESP-Wave)",
+    "archivo": "bundle_chunk_554.cache"
+  },
+  {
+    "id": "juego_556",
+    "titulo": "Ninja Gaiden III - The Ancient Ship of Doom (ESP-Terwilf)",
+    "archivo": "bundle_chunk_555.cache"
+  },
+  {
+    "id": "juego_557",
+    "titulo": "Ninja Gaiden III - The Ancient Ship of Doom (ESP-TransGen)",
+    "archivo": "bundle_chunk_556.cache"
+  },
+  {
+    "id": "juego_558",
+    "titulo": "Ninja Gaiden III - The Ancient Ship of Doom (ESP-Wave)",
+    "archivo": "bundle_chunk_557.cache"
+  },
+  {
+    "id": "juego_559",
+    "titulo": "Ninja Hattori-kun - Ninja wa Syugyou de Gozaru (ESP)",
+    "archivo": "bundle_chunk_558.cache"
+  },
+  {
+    "id": "juego_560",
+    "titulo": "Ninja Jajamaru - Ginga Daisakusen (ESP)",
+    "archivo": "bundle_chunk_559.cache"
+  },
+  {
+    "id": "juego_561",
+    "titulo": "Ninja Kid (ESP)",
+    "archivo": "bundle_chunk_560.cache"
+  },
+  {
+    "id": "juego_562",
+    "titulo": "Ninja-kun - Majou no Bouken (ESP)",
+    "archivo": "bundle_chunk_561.cache"
+  },
+  {
+    "id": "juego_563",
+    "titulo": "Nintendo World Cup (ESP)",
+    "archivo": "bundle_chunk_562.cache"
+  },
+  {
+    "id": "juego_564",
+    "titulo": "No Good Choice (ESP)",
+    "archivo": "bundle_chunk_563.cache"
+  },
+  {
+    "id": "juego_565",
+    "titulo": "Noah's Ark (ESP) (Europe)",
+    "archivo": "bundle_chunk_564.cache"
+  },
+  {
+    "id": "juego_566",
+    "titulo": "North and South (ESP)",
+    "archivo": "bundle_chunk_565.cache"
+  },
+  {
+    "id": "juego_567",
+    "titulo": "Nuts & Milk (ESP)",
+    "archivo": "bundle_chunk_566.cache"
+  },
+  {
+    "id": "juego_568",
+    "titulo": "Onyanko Town (ESP)",
+    "archivo": "bundle_chunk_567.cache"
+  },
+  {
+    "id": "juego_569",
+    "titulo": "Operation Secret Storm (Color Dreams) (ESP)",
+    "archivo": "bundle_chunk_568.cache"
+  },
+  {
+    "id": "juego_570",
+    "titulo": "Operation Wolf (ESP)",
+    "archivo": "bundle_chunk_569.cache"
+  },
+  {
+    "id": "juego_571",
+    "titulo": "Orb 3D (ESP)",
+    "archivo": "bundle_chunk_570.cache"
+  },
+  {
+    "id": "juego_572",
+    "titulo": "Orphea (ESP)",
+    "archivo": "bundle_chunk_571.cache"
+  },
+  {
+    "id": "juego_573",
+    "titulo": "Othello (ESP)",
+    "archivo": "bundle_chunk_572.cache"
+  },
+  {
+    "id": "juego_574",
+    "titulo": "Over Horizon (ESP)",
+    "archivo": "bundle_chunk_573.cache"
+  },
+  {
+    "id": "juego_575",
+    "titulo": "P.O.W. - Prisoners of War (ESP)",
+    "archivo": "bundle_chunk_574.cache"
+  },
+  {
+    "id": "juego_576",
+    "titulo": "Paaman - Enban wo Torikaese!! (ESP)",
+    "archivo": "bundle_chunk_575.cache"
+  },
+  {
+    "id": "juego_577",
+    "titulo": "Paaman Part 2 - Himitsu Kessha Madoodan wo Taose! (ESP-Crimental)",
+    "archivo": "bundle_chunk_576.cache"
+  },
+  {
+    "id": "juego_578",
+    "titulo": "Pac-Land (ESP)",
+    "archivo": "bundle_chunk_577.cache"
+  },
+  {
+    "id": "juego_579",
+    "titulo": "Pac-Man (ESP)",
+    "archivo": "bundle_chunk_578.cache"
+  },
+  {
+    "id": "juego_580",
+    "titulo": "Pac-Mania (ESP) (Unl)",
+    "archivo": "bundle_chunk_579.cache"
+  },
+  {
+    "id": "juego_581",
+    "titulo": "Palamedes (ESP)",
+    "archivo": "bundle_chunk_580.cache"
+  },
+  {
+    "id": "juego_582",
+    "titulo": "Panic Restaurant (ESP)",
+    "archivo": "bundle_chunk_581.cache"
+  },
+  {
+    "id": "juego_583",
+    "titulo": "Panic Restaurant - Wanpaku Kokkun no Gourmet World (ESP-Jap)",
+    "archivo": "bundle_chunk_582.cache"
+  },
+  {
+    "id": "juego_584",
+    "titulo": "Paperboy (ESP)",
+    "archivo": "bundle_chunk_583.cache"
+  },
+  {
+    "id": "juego_585",
+    "titulo": "Paperboy 2 (ESP)",
+    "archivo": "bundle_chunk_584.cache"
+  },
+  {
+    "id": "juego_586",
+    "titulo": "Parasol Stars - The Story of Bubble Bobble 3 (ESP)",
+    "archivo": "bundle_chunk_585.cache"
+  },
+  {
+    "id": "juego_587",
+    "titulo": "Paris-Dakar Rally Special (ESP)",
+    "archivo": "bundle_chunk_586.cache"
+  },
+  {
+    "id": "juego_588",
+    "titulo": "Parodius (ESP-Wave-Euro)",
+    "archivo": "bundle_chunk_587.cache"
+  },
+  {
+    "id": "juego_589",
+    "titulo": "Parodius da! (ESP-Wave-Jap)",
+    "archivo": "bundle_chunk_588.cache"
+  },
+  {
+    "id": "juego_590",
+    "titulo": "Peepar Time (ESP)",
+    "archivo": "bundle_chunk_589.cache"
+  },
+  {
+    "id": "juego_591",
+    "titulo": "Penguin-kun Wars (ESP)",
+    "archivo": "bundle_chunk_590.cache"
+  },
+  {
+    "id": "juego_592",
+    "titulo": "Perman Part 2 - Himitsu Kessha Madoodan o Taose! (ESP-Terwilf)",
+    "archivo": "bundle_chunk_591.cache"
+  },
+  {
+    "id": "juego_593",
+    "titulo": "Pesterminator - The Western Exterminator (ESP)",
+    "archivo": "bundle_chunk_592.cache"
+  },
+  {
+    "id": "juego_594",
+    "titulo": "Peter Pan & The Pirates (ESP)",
+    "archivo": "bundle_chunk_593.cache"
+  },
+  {
+    "id": "juego_595",
+    "titulo": "Phantom Fighter (ESP)",
+    "archivo": "bundle_chunk_594.cache"
+  },
+  {
+    "id": "juego_596",
+    "titulo": "Pin Bot (ESP)",
+    "archivo": "bundle_chunk_595.cache"
+  },
+  {
+    "id": "juego_597",
+    "titulo": "Pinball (ESP)",
+    "archivo": "bundle_chunk_596.cache"
+  },
+  {
+    "id": "juego_598",
+    "titulo": "Pinball Quest (ESP)",
+    "archivo": "bundle_chunk_597.cache"
+  },
+  {
+    "id": "juego_599",
+    "titulo": "Pipe Dream (ESP)",
+    "archivo": "bundle_chunk_598.cache"
+  },
+  {
+    "id": "juego_600",
+    "titulo": "Pizza Pop! (ESP)",
+    "archivo": "bundle_chunk_599.cache"
+  },
+  {
+    "id": "juego_601",
+    "titulo": "Platoon (ESP) (Rev A)",
+    "archivo": "bundle_chunk_600.cache"
+  },
+  {
+    "id": "juego_602",
+    "titulo": "Policeman (ESP) (Unl)",
+    "archivo": "bundle_chunk_601.cache"
+  },
+  {
+    "id": "juego_603",
+    "titulo": "Pooyan (ESP)",
+    "archivo": "bundle_chunk_602.cache"
+  },
+  {
+    "id": "juego_604",
+    "titulo": "Popeye (ESP)",
+    "archivo": "bundle_chunk_603.cache"
+  },
+  {
+    "id": "juego_605",
+    "titulo": "Porter  (ESP) (Asia) (Unl)",
+    "archivo": "bundle_chunk_604.cache"
+  },
+  {
+    "id": "juego_606",
+    "titulo": "Power Blade (ESP)",
+    "archivo": "bundle_chunk_605.cache"
+  },
+  {
+    "id": "juego_607",
+    "titulo": "Power Blade 2 (ESP)",
+    "archivo": "bundle_chunk_606.cache"
+  },
+  {
+    "id": "juego_608",
+    "titulo": "Power Blazer (ESP)",
+    "archivo": "bundle_chunk_607.cache"
+  },
+  {
+    "id": "juego_609",
+    "titulo": "Power Soccer (ESP)",
+    "archivo": "bundle_chunk_608.cache"
+  },
+  {
+    "id": "juego_610",
+    "titulo": "Predator (ESP)",
+    "archivo": "bundle_chunk_609.cache"
+  },
+  {
+    "id": "juego_611",
+    "titulo": "Prince of Persia (ESP)",
+    "archivo": "bundle_chunk_610.cache"
+  },
+  {
+    "id": "juego_612",
+    "titulo": "Puss n Boots - Pero's Great Adventure (ESP)",
+    "archivo": "bundle_chunk_611.cache"
+  },
+  {
+    "id": "juego_613",
+    "titulo": "Puyo Puyo (ESP)",
+    "archivo": "bundle_chunk_612.cache"
+  },
+  {
+    "id": "juego_614",
+    "titulo": "Puzzle (ESP) (Unl)",
+    "archivo": "bundle_chunk_613.cache"
+  },
+  {
+    "id": "juego_615",
+    "titulo": "Puzznic (ESP)",
+    "archivo": "bundle_chunk_614.cache"
+  },
+  {
+    "id": "juego_616",
+    "titulo": "Pyramid  (ESP) (AVE) (PRG1)",
+    "archivo": "bundle_chunk_615.cache"
+  },
+  {
+    "id": "juego_617",
+    "titulo": "Pyramid (ESP) (Unl-Version Hack)",
+    "archivo": "bundle_chunk_616.cache"
+  },
+  {
+    "id": "juego_618",
+    "titulo": "Q-bert (ESP)",
+    "archivo": "bundle_chunk_617.cache"
+  },
+  {
+    "id": "juego_619",
+    "titulo": "QIX (ESP)",
+    "archivo": "bundle_chunk_618.cache"
+  },
+  {
+    "id": "juego_620",
+    "titulo": "Quarth (ESP)",
+    "archivo": "bundle_chunk_619.cache"
+  },
+  {
+    "id": "juego_621",
+    "titulo": "Quattro Adventure (ESP) (Unl)",
+    "archivo": "bundle_chunk_620.cache"
+  },
+  {
+    "id": "juego_622",
+    "titulo": "Quattro Arcade (ESP) (Unl)",
+    "archivo": "bundle_chunk_621.cache"
+  },
+  {
+    "id": "juego_623",
+    "titulo": "Quattro Sports (ESP) (Unl)",
+    "archivo": "bundle_chunk_622.cache"
+  },
+  {
+    "id": "juego_624",
+    "titulo": "R.C. Pro-Am (ESP) (Rev A)",
+    "archivo": "bundle_chunk_623.cache"
+  },
+  {
+    "id": "juego_625",
+    "titulo": "R.C. Pro-Am II (ESP)",
+    "archivo": "bundle_chunk_624.cache"
+  },
+  {
+    "id": "juego_626",
+    "titulo": "Rad Racer (ESP)",
+    "archivo": "bundle_chunk_625.cache"
+  },
+  {
+    "id": "juego_627",
+    "titulo": "Rad Racer 2 (ESP)",
+    "archivo": "bundle_chunk_626.cache"
+  },
+  {
+    "id": "juego_628",
+    "titulo": "Raid 2020 (ESP)",
+    "archivo": "bundle_chunk_627.cache"
+  },
+  {
+    "id": "juego_629",
+    "titulo": "Raid on Bungeling Bay (ESP)",
+    "archivo": "bundle_chunk_628.cache"
+  },
+  {
+    "id": "juego_630",
+    "titulo": "Rainbow Islands - The Story of Bubble Bobble 2 (ESP-Euro)",
+    "archivo": "bundle_chunk_629.cache"
+  },
+  {
+    "id": "juego_631",
+    "titulo": "Rainbow Islands - The Story of Bubble Bobble 2 (ESP-USA)",
+    "archivo": "bundle_chunk_630.cache"
+  },
+  {
+    "id": "juego_632",
+    "titulo": "Rally Bike (ESP)",
+    "archivo": "bundle_chunk_631.cache"
+  },
+  {
+    "id": "juego_633",
+    "titulo": "Rambo (ESP)",
+    "archivo": "bundle_chunk_632.cache"
+  },
+  {
+    "id": "juego_634",
+    "titulo": "Renegade (ESP)",
+    "archivo": "bundle_chunk_633.cache"
+  },
+  {
+    "id": "juego_635",
+    "titulo": "Rescue - The Embassy Mission (ESP)",
+    "archivo": "bundle_chunk_634.cache"
+  },
+  {
+    "id": "juego_636",
+    "titulo": "Ring King (ESP)",
+    "archivo": "bundle_chunk_635.cache"
+  },
+  {
+    "id": "juego_637",
+    "titulo": "River City Ransom (ESP-Final-TransGen)",
+    "archivo": "bundle_chunk_636.cache"
+  },
+  {
+    "id": "juego_638",
+    "titulo": "River City Ransom (ESP-TransGen)",
+    "archivo": "bundle_chunk_637.cache"
+  },
+  {
+    "id": "juego_639",
+    "titulo": "River City Ransom (ESP-Wave)",
+    "archivo": "bundle_chunk_638.cache"
+  },
+  {
+    "id": "juego_640",
+    "titulo": "Road Fighter (ESP)",
+    "archivo": "bundle_chunk_639.cache"
+  },
+  {
+    "id": "juego_641",
+    "titulo": "RoadBlasters (ESP)",
+    "archivo": "bundle_chunk_640.cache"
+  },
+  {
+    "id": "juego_642",
+    "titulo": "Robo Warrior (ESP)",
+    "archivo": "bundle_chunk_641.cache"
+  },
+  {
+    "id": "juego_643",
+    "titulo": "Robocco Wars (ESP)",
+    "archivo": "bundle_chunk_642.cache"
+  },
+  {
+    "id": "juego_644",
+    "titulo": "RoboCop (ESP-USA-2.0)",
+    "archivo": "bundle_chunk_643.cache"
+  },
+  {
+    "id": "juego_645",
+    "titulo": "RoboCop 2 (ESP)",
+    "archivo": "bundle_chunk_644.cache"
+  },
+  {
+    "id": "juego_646",
+    "titulo": "RoboCop 3 (ESP)",
+    "archivo": "bundle_chunk_645.cache"
+  },
+  {
+    "id": "juego_647",
+    "titulo": "RoboCop 3 (ESP-2.0)",
+    "archivo": "bundle_chunk_646.cache"
+  },
+  {
+    "id": "juego_648",
+    "titulo": "Robodemons (ESP)",
+    "archivo": "bundle_chunk_647.cache"
+  },
+  {
+    "id": "juego_649",
+    "titulo": "Rockin' Kats (ESP)",
+    "archivo": "bundle_chunk_648.cache"
+  },
+  {
+    "id": "juego_650",
+    "titulo": "Rocman X (ESP) (Unl)",
+    "archivo": "bundle_chunk_649.cache"
+  },
+  {
+    "id": "juego_651",
+    "titulo": "Rod Land (ESP)",
+    "archivo": "bundle_chunk_650.cache"
+  },
+  {
+    "id": "juego_652",
+    "titulo": "Rollerball (ESP)",
+    "archivo": "bundle_chunk_651.cache"
+  },
+  {
+    "id": "juego_653",
+    "titulo": "Rollerblade Racer (ESP)",
+    "archivo": "bundle_chunk_652.cache"
+  },
+  {
+    "id": "juego_654",
+    "titulo": "Rollergames (ESP-Wave)",
+    "archivo": "bundle_chunk_653.cache"
+  },
+  {
+    "id": "juego_655",
+    "titulo": "Rollergames (ESP.Manuel Riguera)",
+    "archivo": "bundle_chunk_654.cache"
+  },
+  {
+    "id": "juego_656",
+    "titulo": "Rolling Thunder (ESP) (Unl)",
+    "archivo": "bundle_chunk_655.cache"
+  },
+  {
+    "id": "juego_657",
+    "titulo": "Rush'n Attack (ESP)",
+    "archivo": "bundle_chunk_656.cache"
+  },
+  {
+    "id": "juego_658",
+    "titulo": "Rygar (ESP-HTI)",
+    "archivo": "bundle_chunk_657.cache"
+  },
+  {
+    "id": "juego_659",
+    "titulo": "Rygar (ESP-USA)",
+    "archivo": "bundle_chunk_658.cache"
+  },
+  {
+    "id": "juego_660",
+    "titulo": "S.C.A.T. - Special Cybernetic Attack Team (ESP) (Beta)",
+    "archivo": "bundle_chunk_659.cache"
+  },
+  {
+    "id": "juego_661",
+    "titulo": "Saint Seiya Ougon Densetsu (ESP)",
+    "archivo": "bundle_chunk_660.cache"
+  },
+  {
+    "id": "juego_662",
+    "titulo": "Saiyuuki World (ESP)",
+    "archivo": "bundle_chunk_661.cache"
+  },
+  {
+    "id": "juego_663",
+    "titulo": "Sakigake!! Otoko Juku - Shippuu Ichi Gou Sei (ESP)",
+    "archivo": "bundle_chunk_662.cache"
+  },
+  {
+    "id": "juego_664",
+    "titulo": "SD Gundam - Gachapon Senshi 2 - Capsule Senki (ESP)",
+    "archivo": "bundle_chunk_663.cache"
+  },
+  {
+    "id": "juego_665",
+    "titulo": "SD Gundam - Gachapon Senshi 3 - Eiyuu Senki (ESP)",
+    "archivo": "bundle_chunk_664.cache"
+  },
+  {
+    "id": "juego_666",
+    "titulo": "SD Hero Soukessen - Taose! Aku no Gundan (ESP)",
+    "archivo": "bundle_chunk_665.cache"
+  },
+  {
+    "id": "juego_667",
+    "titulo": "Secret Scout in the Temple of Demise (ESP)",
+    "archivo": "bundle_chunk_666.cache"
+  },
+  {
+    "id": "juego_668",
+    "titulo": "Secret Ties (ESP) (Prototype)",
+    "archivo": "bundle_chunk_667.cache"
+  },
+  {
+    "id": "juego_669",
+    "titulo": "Section Z (ESP)",
+    "archivo": "bundle_chunk_668.cache"
+  },
+  {
+    "id": "juego_670",
+    "titulo": "Seicross (ESP)",
+    "archivo": "bundle_chunk_669.cache"
+  },
+  {
+    "id": "juego_671",
+    "titulo": "Shadow of the Ninja (ESP-USA-Wave)",
+    "archivo": "bundle_chunk_670.cache"
+  },
+  {
+    "id": "juego_672",
+    "titulo": "Shadow of the Ninja - Kage (ESP-Jap)",
+    "archivo": "bundle_chunk_671.cache"
+  },
+  {
+    "id": "juego_673",
+    "titulo": "Shatterhand (Tokkyuu Shirei - Solbrain) (ESP-USA- Wave)",
+    "archivo": "bundle_chunk_672.cache"
+  },
+  {
+    "id": "juego_674",
+    "titulo": "Shinobi (ESP-Tengen)",
+    "archivo": "bundle_chunk_673.cache"
+  },
+  {
+    "id": "juego_675",
+    "titulo": "Shooting Range (ESP)",
+    "archivo": "bundle_chunk_674.cache"
+  },
+  {
+    "id": "juego_676",
+    "titulo": "Shufflepuck Cafe (ESP)",
+    "archivo": "bundle_chunk_675.cache"
+  },
+  {
+    "id": "juego_677",
+    "titulo": "Side Pocket (ESP)",
+    "archivo": "bundle_chunk_676.cache"
+  },
+  {
+    "id": "juego_678",
+    "titulo": "Silent Assault (ESP) (Unl)",
+    "archivo": "bundle_chunk_677.cache"
+  },
+  {
+    "id": "juego_679",
+    "titulo": "Silver Eagle (ESP) (Unl)",
+    "archivo": "bundle_chunk_678.cache"
+  },
+  {
+    "id": "juego_680",
+    "titulo": "Silver Surfer (ESP)",
+    "archivo": "bundle_chunk_679.cache"
+  },
+  {
+    "id": "juego_681",
+    "titulo": "Skate Boy  (ESP) (Unl)",
+    "archivo": "bundle_chunk_680.cache"
+  },
+  {
+    "id": "juego_682",
+    "titulo": "Skull & Crossbones (ESP) (Unl)",
+    "archivo": "bundle_chunk_681.cache"
+  },
+  {
+    "id": "juego_683",
+    "titulo": "Sky Destroyer (ESP)",
+    "archivo": "bundle_chunk_682.cache"
+  },
+  {
+    "id": "juego_684",
+    "titulo": "Sky Kid (ESP)",
+    "archivo": "bundle_chunk_683.cache"
+  },
+  {
+    "id": "juego_685",
+    "titulo": "Sky Shark (ESP)",
+    "archivo": "bundle_chunk_684.cache"
+  },
+  {
+    "id": "juego_686",
+    "titulo": "Slalom (ESP)",
+    "archivo": "bundle_chunk_685.cache"
+  },
+  {
+    "id": "juego_687",
+    "titulo": "Smash T.V. (ESP)",
+    "archivo": "bundle_chunk_686.cache"
+  },
+  {
+    "id": "juego_688",
+    "titulo": "Snake Rattle N Roll (ESP)",
+    "archivo": "bundle_chunk_687.cache"
+  },
+  {
+    "id": "juego_689",
+    "titulo": "Snake's Revenge (ESP)",
+    "archivo": "bundle_chunk_688.cache"
+  },
+  {
+    "id": "juego_690",
+    "titulo": "Snow Brothers (ESP)",
+    "archivo": "bundle_chunk_689.cache"
+  },
+  {
+    "id": "juego_691",
+    "titulo": "Soccer (ESP)",
+    "archivo": "bundle_chunk_690.cache"
+  },
+  {
+    "id": "juego_692",
+    "titulo": "Solar Jetman - Hunt for the Golden Warpship (ESP)",
+    "archivo": "bundle_chunk_691.cache"
+  },
+  {
+    "id": "juego_693",
+    "titulo": "Solbrain - Tokkyuu Shirei  (Shatterhand) (ESP-JAP- Wave)",
+    "archivo": "bundle_chunk_692.cache"
+  },
+  {
+    "id": "juego_694",
+    "titulo": "Solomon's Key (ESP)",
+    "archivo": "bundle_chunk_693.cache"
+  },
+  {
+    "id": "juego_695",
+    "titulo": "Solstice - The Quest for the Staff of Demnos (ESP)",
+    "archivo": "bundle_chunk_694.cache"
+  },
+  {
+    "id": "juego_696",
+    "titulo": "Son Son (ESP)",
+    "archivo": "bundle_chunk_695.cache"
+  },
+  {
+    "id": "juego_697",
+    "titulo": "Space Harrier (ESP)",
+    "archivo": "bundle_chunk_696.cache"
+  },
+  {
+    "id": "juego_698",
+    "titulo": "Space Hunter (ESP)",
+    "archivo": "bundle_chunk_697.cache"
+  },
+  {
+    "id": "juego_699",
+    "titulo": "Space Invaders (ESP)",
+    "archivo": "bundle_chunk_698.cache"
+  },
+  {
+    "id": "juego_700",
+    "titulo": "Spacegulls (ESP)",
+    "archivo": "bundle_chunk_699.cache"
+  },
+  {
+    "id": "juego_701",
+    "titulo": "Spartan X (ESP-Wave)",
+    "archivo": "bundle_chunk_700.cache"
+  },
+  {
+    "id": "juego_702",
+    "titulo": "Spartan X 2 (ESP)",
+    "archivo": "bundle_chunk_701.cache"
+  },
+  {
+    "id": "juego_703",
+    "titulo": "Spelunker (ESP)",
+    "archivo": "bundle_chunk_702.cache"
+  },
+  {
+    "id": "juego_704",
+    "titulo": "Splatter House - Wanpaku Graffiti (ESP)",
+    "archivo": "bundle_chunk_703.cache"
+  },
+  {
+    "id": "juego_705",
+    "titulo": "Spot - The Video Game (ESP)",
+    "archivo": "bundle_chunk_704.cache"
+  },
+  {
+    "id": "juego_706",
+    "titulo": "Spy Hunter (ESP)",
+    "archivo": "bundle_chunk_705.cache"
+  },
+  {
+    "id": "juego_707",
+    "titulo": "Spy Vs Spy (ESP)",
+    "archivo": "bundle_chunk_706.cache"
+  },
+  {
+    "id": "juego_708",
+    "titulo": "Sqoon (ESP)",
+    "archivo": "bundle_chunk_707.cache"
+  },
+  {
+    "id": "juego_709",
+    "titulo": "Squashed (ESP) (Proto)",
+    "archivo": "bundle_chunk_708.cache"
+  },
+  {
+    "id": "juego_710",
+    "titulo": "Stanley - The Search for Dr. Livingston (ESP)",
+    "archivo": "bundle_chunk_709.cache"
+  },
+  {
+    "id": "juego_711",
+    "titulo": "Star Force (ESP)",
+    "archivo": "bundle_chunk_710.cache"
+  },
+  {
+    "id": "juego_712",
+    "titulo": "Star Soldier (ESP)",
+    "archivo": "bundle_chunk_711.cache"
+  },
+  {
+    "id": "juego_713",
+    "titulo": "Star Voyager (ESP)",
+    "archivo": "bundle_chunk_712.cache"
+  },
+  {
+    "id": "juego_714",
+    "titulo": "Star Wars (ESP) (Namco)",
+    "archivo": "bundle_chunk_713.cache"
+  },
+  {
+    "id": "juego_715",
+    "titulo": "Star Wars (ESP)",
+    "archivo": "bundle_chunk_714.cache"
+  },
+  {
+    "id": "juego_716",
+    "titulo": "Starship Hector (ESP)",
+    "archivo": "bundle_chunk_715.cache"
+  },
+  {
+    "id": "juego_717",
+    "titulo": "Startropics (ESP)",
+    "archivo": "bundle_chunk_716.cache"
+  },
+  {
+    "id": "juego_718",
+    "titulo": "Startropics II Zoda's Revenge (ESP)",
+    "archivo": "bundle_chunk_717.cache"
+  },
+  {
+    "id": "juego_719",
+    "titulo": "Sting (ESP)",
+    "archivo": "bundle_chunk_718.cache"
+  },
+  {
+    "id": "juego_720",
+    "titulo": "Stinger (ESP)",
+    "archivo": "bundle_chunk_719.cache"
+  },
+  {
+    "id": "juego_721",
+    "titulo": "Street Fighter 2010 - The Final Fight (ESP-USA-2.0)",
+    "archivo": "bundle_chunk_720.cache"
+  },
+  {
+    "id": "juego_722",
+    "titulo": "Street Fighter II - The World Warrior (ESP) (Unl)",
+    "archivo": "bundle_chunk_721.cache"
+  },
+  {
+    "id": "juego_723",
+    "titulo": "Street Fighter IV (ESP) (Unl)",
+    "archivo": "bundle_chunk_722.cache"
+  },
+  {
+    "id": "juego_724",
+    "titulo": "Strider (ESP)",
+    "archivo": "bundle_chunk_723.cache"
+  },
+  {
+    "id": "juego_725",
+    "titulo": "Strike Wolf (ESP)",
+    "archivo": "bundle_chunk_724.cache"
+  },
+  {
+    "id": "juego_726",
+    "titulo": "Sunman (ESP-Europe) (Proto)",
+    "archivo": "bundle_chunk_725.cache"
+  },
+  {
+    "id": "juego_727",
+    "titulo": "Super Arabian (ESP)",
+    "archivo": "bundle_chunk_726.cache"
+  },
+  {
+    "id": "juego_728",
+    "titulo": "Super C (ESP-USA)",
+    "archivo": "bundle_chunk_727.cache"
+  },
+  {
+    "id": "juego_729",
+    "titulo": "Super C - Probotector II - Return of the Evil Forces (ESP-EURO)",
+    "archivo": "bundle_chunk_728.cache"
+  },
+  {
+    "id": "juego_730",
+    "titulo": "Super Dodge Ball (ESP)",
+    "archivo": "bundle_chunk_729.cache"
+  },
+  {
+    "id": "juego_731",
+    "titulo": "Super Dyna'mix Badminton (ESP)",
+    "archivo": "bundle_chunk_730.cache"
+  },
+  {
+    "id": "juego_732",
+    "titulo": "Super Mario Bros. (ESP-Her-Saki)",
+    "archivo": "bundle_chunk_731.cache"
+  },
+  {
+    "id": "juego_733",
+    "titulo": "Super Mario Bros. (ESP-W-Wave)",
+    "archivo": "bundle_chunk_732.cache"
+  },
+  {
+    "id": "juego_734",
+    "titulo": "Super Mario Bros. 2 (ESP)",
+    "archivo": "bundle_chunk_733.cache"
+  },
+  {
+    "id": "juego_735",
+    "titulo": "Super Mario Bros. 3 (ESP-Noishe)",
+    "archivo": "bundle_chunk_734.cache"
+  },
+  {
+    "id": "juego_736",
+    "titulo": "Super Mario Bros. 3 (ESP-Wave)",
+    "archivo": "bundle_chunk_735.cache"
+  },
+  {
+    "id": "juego_738",
+    "titulo": "Super Pang  (ESP) (Asia) (Ja) (PAL) (Unl)",
+    "archivo": "bundle_chunk_737.cache"
+  },
+  {
+    "id": "juego_739",
+    "titulo": "Super Pang II (ESP) (Asia) (Unl)",
+    "archivo": "bundle_chunk_738.cache"
+  },
+  {
+    "id": "juego_740",
+    "titulo": "Super Pitfall (ESP)",
+    "archivo": "bundle_chunk_739.cache"
+  },
+  {
+    "id": "juego_741",
+    "titulo": "Super Robin Hood (ESP) (Unl)",
+    "archivo": "bundle_chunk_740.cache"
+  },
+  {
+    "id": "juego_742",
+    "titulo": "Super Spike V'Ball (ESP-USA)",
+    "archivo": "bundle_chunk_741.cache"
+  },
+  {
+    "id": "juego_743",
+    "titulo": "Super Spike V'Ball - US Championship V'Ball (ESP-JAP)",
+    "archivo": "bundle_chunk_742.cache"
+  },
+  {
+    "id": "juego_744",
+    "titulo": "Super Spy Hunter (ESP)",
+    "archivo": "bundle_chunk_743.cache"
+  },
+  {
+    "id": "juego_745",
+    "titulo": "Super Spy Hunter - Battle Formula (ESP-Japan)",
+    "archivo": "bundle_chunk_744.cache"
+  },
+  {
+    "id": "juego_746",
+    "titulo": "Super Turrican (ESP-Europe)",
+    "archivo": "bundle_chunk_745.cache"
+  },
+  {
+    "id": "juego_747",
+    "titulo": "Swamp Thing (ESP)",
+    "archivo": "bundle_chunk_746.cache"
+  },
+  {
+    "id": "juego_748",
+    "titulo": "Sweet Home (ESP-Mingus)",
+    "archivo": "bundle_chunk_747.cache"
+  },
+  {
+    "id": "juego_749",
+    "titulo": "Sweet Home (ESP-Wave)",
+    "archivo": "bundle_chunk_748.cache"
+  },
+  {
+    "id": "juego_750",
+    "titulo": "Sword Master (ESP-JAP)",
+    "archivo": "bundle_chunk_749.cache"
+  },
+  {
+    "id": "juego_751",
+    "titulo": "Sword Master (ESP-USA)",
+    "archivo": "bundle_chunk_750.cache"
+  },
+  {
+    "id": "juego_752",
+    "titulo": "Tag Team Wrestling (ESP)",
+    "archivo": "bundle_chunk_751.cache"
+  },
+  {
+    "id": "juego_753",
+    "titulo": "Taito Chase H.Q. (ESP-Japon)",
+    "archivo": "bundle_chunk_752.cache"
+  },
+  {
+    "id": "juego_754",
+    "titulo": "Taiyou no Yuusha Firebird (ESP)",
+    "archivo": "bundle_chunk_753.cache"
+  },
+  {
+    "id": "juego_755",
+    "titulo": "Takahashi Meijin no Bugutte Honey (ESP)",
+    "archivo": "bundle_chunk_754.cache"
+  },
+  {
+    "id": "juego_756",
+    "titulo": "TaleSpin (ESP-elbeto57)",
+    "archivo": "bundle_chunk_755.cache"
+  },
+  {
+    "id": "juego_757",
+    "titulo": "Tanque (ESP) (Unl)",
+    "archivo": "bundle_chunk_756.cache"
+  },
+  {
+    "id": "juego_758",
+    "titulo": "Target - Renegade (ESP)",
+    "archivo": "bundle_chunk_757.cache"
+  },
+  {
+    "id": "juego_759",
+    "titulo": "Tasac (ESP) (Asia) (Unl)",
+    "archivo": "bundle_chunk_758.cache"
+  },
+  {
+    "id": "juego_760",
+    "titulo": "Tashiro Masashi no Princess ga Ippai (ESP)",
+    "archivo": "bundle_chunk_759.cache"
+  },
+  {
+    "id": "juego_761",
+    "titulo": "Tecmo World Cup Soccer (ESP)",
+    "archivo": "bundle_chunk_760.cache"
+  },
+  {
+    "id": "juego_762",
+    "titulo": "Teenage Mutant Ninja Turtles (ESP)",
+    "archivo": "bundle_chunk_761.cache"
+  },
+  {
+    "id": "juego_763",
+    "titulo": "Teenage Mutant Ninja Turtles - Tournament Fighters (ESP)",
+    "archivo": "bundle_chunk_762.cache"
+  },
+  {
+    "id": "juego_764",
+    "titulo": "Teenage Mutant Ninja Turtles II - The Arcade Game (ESP)",
+    "archivo": "bundle_chunk_763.cache"
+  },
+  {
+    "id": "juego_765",
+    "titulo": "Teenage Mutant Ninja Turtles III - The Manhattan Project (ESP)",
+    "archivo": "bundle_chunk_764.cache"
+  },
+  {
+    "id": "juego_766",
+    "titulo": "Temple Dilemma (ESP)",
+    "archivo": "bundle_chunk_765.cache"
+  },
+  {
+    "id": "juego_767",
+    "titulo": "Tennis (ESP)",
+    "archivo": "bundle_chunk_766.cache"
+  },
+  {
+    "id": "juego_768",
+    "titulo": "Terminator 2 - Judgment Day (ESP)",
+    "archivo": "bundle_chunk_767.cache"
+  },
+  {
+    "id": "juego_769",
+    "titulo": "Terra Cresta (ESP)",
+    "archivo": "bundle_chunk_768.cache"
+  },
+  {
+    "id": "juego_770",
+    "titulo": "Tetrastar - The Fighter (ESP)",
+    "archivo": "bundle_chunk_769.cache"
+  },
+  {
+    "id": "juego_771",
+    "titulo": "Tetris (ESP) (Bulletproof) (Japan) (Rev B)",
+    "archivo": "bundle_chunk_770.cache"
+  },
+  {
+    "id": "juego_772",
+    "titulo": "Tetris (ESP) (Unl)",
+    "archivo": "bundle_chunk_771.cache"
+  },
+  {
+    "id": "juego_773",
+    "titulo": "Tetris (ESP)",
+    "archivo": "bundle_chunk_772.cache"
+  },
+  {
+    "id": "juego_774",
+    "titulo": "Tetris (ESP-Music Hack) (Unl)",
+    "archivo": "bundle_chunk_773.cache"
+  },
+  {
+    "id": "juego_775",
+    "titulo": "Tetsudou Ou - Famicom Boardgame (ESP)",
+    "archivo": "bundle_chunk_774.cache"
+  },
+  {
+    "id": "juego_776",
+    "titulo": "The 3-D Battles of World Runner (ESP)",
+    "archivo": "bundle_chunk_775.cache"
+  },
+  {
+    "id": "juego_777",
+    "titulo": "The Addams Family (ESP-Heros)",
+    "archivo": "bundle_chunk_776.cache"
+  },
+  {
+    "id": "juego_778",
+    "titulo": "The Addams Family (ESP-Wave)",
+    "archivo": "bundle_chunk_777.cache"
+  },
+  {
+    "id": "juego_779",
+    "titulo": "The Addams Family - Pugsley's Scavenger Hunt (ESP)",
+    "archivo": "bundle_chunk_778.cache"
+  },
+  {
+    "id": "juego_780",
+    "titulo": "The Adventures of Bayou Billy (ESP-JAP) Mad City",
+    "archivo": "bundle_chunk_779.cache"
+  },
+  {
+    "id": "juego_781",
+    "titulo": "The Adventures of Bayou Billy (ESP-USA)",
+    "archivo": "bundle_chunk_780.cache"
+  },
+  {
+    "id": "juego_782",
+    "titulo": "The Adventures of Captain Comic  (ESP)",
+    "archivo": "bundle_chunk_781.cache"
+  },
+  {
+    "id": "juego_783",
+    "titulo": "The Adventures of Rad Gravity (ESP)",
+    "archivo": "bundle_chunk_782.cache"
+  },
+  {
+    "id": "juego_784",
+    "titulo": "The Battle of Olympus (ESP-EURO)",
+    "archivo": "bundle_chunk_783.cache"
+  },
+  {
+    "id": "juego_785",
+    "titulo": "The Battle of Olympus (ESP-USA)",
+    "archivo": "bundle_chunk_784.cache"
+  },
+  {
+    "id": "juego_786",
+    "titulo": "The Blues Brothers (ESP)",
+    "archivo": "bundle_chunk_785.cache"
+  },
+  {
+    "id": "juego_787",
+    "titulo": "The Bugs Bunny Birthday Blowout (ESP)",
+    "archivo": "bundle_chunk_786.cache"
+  },
+  {
+    "id": "juego_788",
+    "titulo": "The Bugs Bunny Crazy Castle (ESP)",
+    "archivo": "bundle_chunk_787.cache"
+  },
+  {
+    "id": "juego_789",
+    "titulo": "The California Raisins - The Grape Escape (ESP) (Prototype)",
+    "archivo": "bundle_chunk_788.cache"
+  },
+  {
+    "id": "juego_790",
+    "titulo": "The Chessmaster (ESP)",
+    "archivo": "bundle_chunk_789.cache"
+  },
+  {
+    "id": "juego_791",
+    "titulo": "The Flintstones - The Rescue of Dino & Hoppy (ESP)",
+    "archivo": "bundle_chunk_790.cache"
+  },
+  {
+    "id": "juego_792",
+    "titulo": "The Flintstones - The Surprise at Dinosaur Peak! (ESP)",
+    "archivo": "bundle_chunk_791.cache"
+  },
+  {
+    "id": "juego_793",
+    "titulo": "The Goonies (ESP)",
+    "archivo": "bundle_chunk_792.cache"
+  },
+  {
+    "id": "juego_794",
+    "titulo": "The Goonies II (ESP)",
+    "archivo": "bundle_chunk_793.cache"
+  },
+  {
+    "id": "juego_795",
+    "titulo": "The Guardian Legend (ESP)",
+    "archivo": "bundle_chunk_794.cache"
+  },
+  {
+    "id": "juego_796",
+    "titulo": "The Hunt for Red October (ESP)",
+    "archivo": "bundle_chunk_795.cache"
+  },
+  {
+    "id": "juego_797",
+    "titulo": "The Immortal (ESP)",
+    "archivo": "bundle_chunk_796.cache"
+  },
+  {
+    "id": "juego_798",
+    "titulo": "The Incredible Crash Dummies (ESP)",
+    "archivo": "bundle_chunk_797.cache"
+  },
+  {
+    "id": "juego_799",
+    "titulo": "The Jetsons - Cogswell's Caper! (ESP)",
+    "archivo": "bundle_chunk_798.cache"
+  },
+  {
+    "id": "juego_800",
+    "titulo": "The Jungle Book (ESP)",
+    "archivo": "bundle_chunk_799.cache"
+  },
+  {
+    "id": "juego_801",
+    "titulo": "The Karate Kid (ESP)",
+    "archivo": "bundle_chunk_800.cache"
+  },
+  {
+    "id": "juego_802",
+    "titulo": "The Krion Conquest (ESP)",
+    "archivo": "bundle_chunk_801.cache"
+  },
+  {
+    "id": "juego_803",
+    "titulo": "The Krion Conquest - Magical Kid's Doropie (ESP-JAP)",
+    "archivo": "bundle_chunk_802.cache"
+  },
+  {
+    "id": "juego_804",
+    "titulo": "The Last Ninja (ESP)",
+    "archivo": "bundle_chunk_803.cache"
+  },
+  {
+    "id": "juego_805",
+    "titulo": "The Last Starfighter (ESP)",
+    "archivo": "bundle_chunk_804.cache"
+  },
+  {
+    "id": "juego_806",
+    "titulo": "The Legend of Kage (ESP)",
+    "archivo": "bundle_chunk_805.cache"
+  },
+  {
+    "id": "juego_807",
+    "titulo": "The Legend of Prince Valiant (ESP-Europe)",
+    "archivo": "bundle_chunk_806.cache"
+  },
+  {
+    "id": "juego_808",
+    "titulo": "The Legend of Zelda (ESP-Firionel)",
+    "archivo": "bundle_chunk_807.cache"
+  },
+  {
+    "id": "juego_809",
+    "titulo": "The Legend of Zelda (ESP-Orden)",
+    "archivo": "bundle_chunk_808.cache"
+  },
+  {
+    "id": "juego_810",
+    "titulo": "The Legend of Zelda (ESP-TheFireRed)",
+    "archivo": "bundle_chunk_809.cache"
+  },
+  {
+    "id": "juego_811",
+    "titulo": "The Lion King (ESP-Europe)",
+    "archivo": "bundle_chunk_810.cache"
+  },
+  {
+    "id": "juego_812",
+    "titulo": "The Little Mermaid (ESP-Jate)",
+    "archivo": "bundle_chunk_811.cache"
+  },
+  {
+    "id": "juego_813",
+    "titulo": "The Little Mermaid (ESP-Wave)",
+    "archivo": "bundle_chunk_812.cache"
+  },
+  {
+    "id": "juego_814",
+    "titulo": "The Lone Ranger (ESP)",
+    "archivo": "bundle_chunk_813.cache"
+  },
+  {
+    "id": "juego_815",
+    "titulo": "The Lord of King (ESP)",
+    "archivo": "bundle_chunk_814.cache"
+  },
+  {
+    "id": "juego_816",
+    "titulo": "The Magic of Scheherazade (ESP)",
+    "archivo": "bundle_chunk_815.cache"
+  },
+  {
+    "id": "juego_817",
+    "titulo": "The Mutant Virus - Crisis in a Computer World (ESP)",
+    "archivo": "bundle_chunk_816.cache"
+  },
+  {
+    "id": "juego_818",
+    "titulo": "The New Zealand Story (ESP)",
+    "archivo": "bundle_chunk_817.cache"
+  },
+  {
+    "id": "juego_819",
+    "titulo": "The P'radikus Conflict (ESP)",
+    "archivo": "bundle_chunk_818.cache"
+  },
+  {
+    "id": "juego_820",
+    "titulo": "The Punisher (ESP)",
+    "archivo": "bundle_chunk_819.cache"
+  },
+  {
+    "id": "juego_821",
+    "titulo": "The Rocketeer (ESP)",
+    "archivo": "bundle_chunk_820.cache"
+  },
+  {
+    "id": "juego_822",
+    "titulo": "The Simpsons  - Bart vs. the World (ESP)",
+    "archivo": "bundle_chunk_821.cache"
+  },
+  {
+    "id": "juego_823",
+    "titulo": "The Simpsons  - Bartman Meets Radioactive Man (ESP)",
+    "archivo": "bundle_chunk_822.cache"
+  },
+  {
+    "id": "juego_824",
+    "titulo": "The Simpsons - Bart vs. the Space Mutants (ESP)",
+    "archivo": "bundle_chunk_823.cache"
+  },
+  {
+    "id": "juego_825",
+    "titulo": "The Terminator (ESP)",
+    "archivo": "bundle_chunk_824.cache"
+  },
+  {
+    "id": "juego_826",
+    "titulo": "The Trolls in Crazyland  (ESP-Europe)",
+    "archivo": "bundle_chunk_825.cache"
+  },
+  {
+    "id": "juego_827",
+    "titulo": "The Ultimate Stuntman (ESP) (Unl)",
+    "archivo": "bundle_chunk_826.cache"
+  },
+  {
+    "id": "juego_828",
+    "titulo": "The Uncanny X-Men (ESP)",
+    "archivo": "bundle_chunk_827.cache"
+  },
+  {
+    "id": "juego_829",
+    "titulo": "The Wing of Madoola (ESP)",
+    "archivo": "bundle_chunk_828.cache"
+  },
+  {
+    "id": "juego_830",
+    "titulo": "The Young Indiana Jones Chronicles (ESP)",
+    "archivo": "bundle_chunk_829.cache"
+  },
+  {
+    "id": "juego_831",
+    "titulo": "Thexder (ESP)",
+    "archivo": "bundle_chunk_830.cache"
+  },
+  {
+    "id": "juego_832",
+    "titulo": "Thunder & Lightning (ESP)",
+    "archivo": "bundle_chunk_831.cache"
+  },
+  {
+    "id": "juego_833",
+    "titulo": "Thunder Warrior (ESP) (Unl)",
+    "archivo": "bundle_chunk_832.cache"
+  },
+  {
+    "id": "juego_834",
+    "titulo": "Thunderbirds (ESP)",
+    "archivo": "bundle_chunk_833.cache"
+  },
+  {
+    "id": "juego_835",
+    "titulo": "Thundercade (ESP)",
+    "archivo": "bundle_chunk_834.cache"
+  },
+  {
+    "id": "juego_836",
+    "titulo": "Tiger-Heli (ESP)",
+    "archivo": "bundle_chunk_835.cache"
+  },
+  {
+    "id": "juego_837",
+    "titulo": "Tiles of Fate (ESP)",
+    "archivo": "bundle_chunk_836.cache"
+  },
+  {
+    "id": "juego_838",
+    "titulo": "Time Diver Eon Man (ESP) (Prototype)",
+    "archivo": "bundle_chunk_837.cache"
+  },
+  {
+    "id": "juego_839",
+    "titulo": "Time Lord (ESP)",
+    "archivo": "bundle_chunk_838.cache"
+  },
+  {
+    "id": "juego_840",
+    "titulo": "Time Zone (ESP)",
+    "archivo": "bundle_chunk_839.cache"
+  },
+  {
+    "id": "juego_841",
+    "titulo": "Tiny Toon Adventures (ESP-pepodmc)",
+    "archivo": "bundle_chunk_840.cache"
+  },
+  {
+    "id": "juego_842",
+    "titulo": "Tiny Toon Adventures (ESP-Wave)",
+    "archivo": "bundle_chunk_841.cache"
+  },
+  {
+    "id": "juego_843",
+    "titulo": "Tiny Toon Adventures 2 - Trouble in Wackyland (ESP)",
+    "archivo": "bundle_chunk_842.cache"
+  },
+  {
+    "id": "juego_844",
+    "titulo": "Tiny Toon Adventures 6 (Unl) (ESP)",
+    "archivo": "bundle_chunk_843.cache"
+  },
+  {
+    "id": "juego_845",
+    "titulo": "Titan Warriors (ESP) (Proto)",
+    "archivo": "bundle_chunk_844.cache"
+  },
+  {
+    "id": "juego_846",
+    "titulo": "Titanic (ESP)",
+    "archivo": "bundle_chunk_845.cache"
+  },
+  {
+    "id": "juego_847",
+    "titulo": "To the Earth (ESP)",
+    "archivo": "bundle_chunk_846.cache"
+  },
+  {
+    "id": "juego_848",
+    "titulo": "Toki (ESP)",
+    "archivo": "bundle_chunk_847.cache"
+  },
+  {
+    "id": "juego_849",
+    "titulo": "Toki - Arcade (ESP)",
+    "archivo": "bundle_chunk_848.cache"
+  },
+  {
+    "id": "juego_850",
+    "titulo": "Tom & Jerry (ESP)",
+    "archivo": "bundle_chunk_849.cache"
+  },
+  {
+    "id": "juego_851",
+    "titulo": "Tombs & Treasure (ESP)",
+    "archivo": "bundle_chunk_850.cache"
+  },
+  {
+    "id": "juego_852",
+    "titulo": "Toobin' (ESP) (Unl)",
+    "archivo": "bundle_chunk_851.cache"
+  },
+  {
+    "id": "juego_853",
+    "titulo": "Top Gun (ESP)",
+    "archivo": "bundle_chunk_852.cache"
+  },
+  {
+    "id": "juego_854",
+    "titulo": "Top Gun - The Second Mission (ESP)",
+    "archivo": "bundle_chunk_853.cache"
+  },
+  {
+    "id": "juego_855",
+    "titulo": "Total Recall (ESP-danuffo)",
+    "archivo": "bundle_chunk_854.cache"
+  },
+  {
+    "id": "juego_856",
+    "titulo": "Totally Rad (ESP-Wave)",
+    "archivo": "bundle_chunk_855.cache"
+  },
+  {
+    "id": "juego_857",
+    "titulo": "Totsuzen! Macchoman (ESP)",
+    "archivo": "bundle_chunk_856.cache"
+  },
+  {
+    "id": "juego_858",
+    "titulo": "Toujin Makyou Den Heracles no Eikou (ESP)",
+    "archivo": "bundle_chunk_857.cache"
+  },
+  {
+    "id": "juego_859",
+    "titulo": "Town & Country Surf Designs - Thrilla's Surfari (ESP)",
+    "archivo": "bundle_chunk_858.cache"
+  },
+  {
+    "id": "juego_860",
+    "titulo": "Toxic Crusaders (ESP)",
+    "archivo": "bundle_chunk_859.cache"
+  },
+  {
+    "id": "juego_861",
+    "titulo": "Toy Story (ESP) (Unl)",
+    "archivo": "bundle_chunk_860.cache"
+  },
+  {
+    "id": "juego_862",
+    "titulo": "Track & Field (ESP-pepodmc)",
+    "archivo": "bundle_chunk_861.cache"
+  },
+  {
+    "id": "juego_863",
+    "titulo": "Track & Field (ESP-Terwilf)",
+    "archivo": "bundle_chunk_862.cache"
+  },
+  {
+    "id": "juego_864",
+    "titulo": "Track & Field II (ESP)",
+    "archivo": "bundle_chunk_863.cache"
+  },
+  {
+    "id": "juego_865",
+    "titulo": "Trojan (ESP)",
+    "archivo": "bundle_chunk_864.cache"
+  },
+  {
+    "id": "juego_866",
+    "titulo": "Twin Cobra (ESP)",
+    "archivo": "bundle_chunk_865.cache"
+  },
+  {
+    "id": "juego_867",
+    "titulo": "Twin Eagle - Revenge Joe's Brother (ESP)",
+    "archivo": "bundle_chunk_866.cache"
+  },
+  {
+    "id": "juego_868",
+    "titulo": "TwinBee (ESP)",
+    "archivo": "bundle_chunk_867.cache"
+  },
+  {
+    "id": "juego_869",
+    "titulo": "TwinBee 3 - Poko Poko Dai Maou (ESP)",
+    "archivo": "bundle_chunk_868.cache"
+  },
+  {
+    "id": "juego_870",
+    "titulo": "U-four-ia - The Saga (ESP-Wave-Euro)",
+    "archivo": "bundle_chunk_869.cache"
+  },
+  {
+    "id": "juego_871",
+    "titulo": "U-four-ia - The Saga - Hebereke (ESP-Wave-Jap)",
+    "archivo": "bundle_chunk_870.cache"
+  },
+  {
+    "id": "juego_872",
+    "titulo": "Uchuu Keibitai SDF (ESP)",
+    "archivo": "bundle_chunk_871.cache"
+  },
+  {
+    "id": "juego_874",
+    "titulo": "Ultraman Club - Kaijuu Daikessen!! (ESP)",
+    "archivo": "bundle_chunk_873.cache"
+  },
+  {
+    "id": "juego_875",
+    "titulo": "Urban Champion (ESP-Wave)",
+    "archivo": "bundle_chunk_874.cache"
+  },
+  {
+    "id": "juego_876",
+    "titulo": "Urusei Yatsura - Lum no Wedding Bell (ESP)",
+    "archivo": "bundle_chunk_875.cache"
+  },
+  {
+    "id": "juego_877",
+    "titulo": "Valkyrie no Bouken - Toki no Kagi Densetsu (ESP)",
+    "archivo": "bundle_chunk_876.cache"
+  },
+  {
+    "id": "juego_878",
+    "titulo": "Vice Project Doom - Gun-Dec (ESP-Jap-Wave)",
+    "archivo": "bundle_chunk_877.cache"
+  },
+  {
+    "id": "juego_879",
+    "titulo": "Volguard II (ESP)",
+    "archivo": "bundle_chunk_878.cache"
+  },
+  {
+    "id": "juego_880",
+    "titulo": "Volley Ball (ESP) (Unl)",
+    "archivo": "bundle_chunk_879.cache"
+  },
+  {
+    "id": "juego_881",
+    "titulo": "Volleyball (ESP)",
+    "archivo": "bundle_chunk_880.cache"
+  },
+  {
+    "id": "juego_882",
+    "titulo": "Wacky Races (ESP)",
+    "archivo": "bundle_chunk_881.cache"
+  },
+  {
+    "id": "juego_883",
+    "titulo": "Wagyan Land (ESP)",
+    "archivo": "bundle_chunk_882.cache"
+  },
+  {
+    "id": "juego_884",
+    "titulo": "Wagyan Land 2 (ESP)",
+    "archivo": "bundle_chunk_883.cache"
+  },
+  {
+    "id": "juego_885",
+    "titulo": "Wai Wai World (ESP-Japan)",
+    "archivo": "bundle_chunk_884.cache"
+  },
+  {
+    "id": "juego_886",
+    "titulo": "Wai Wai World 2 - SOS!! Paseri Jou (ESP)",
+    "archivo": "bundle_chunk_885.cache"
+  },
+  {
+    "id": "juego_887",
+    "titulo": "War in the Gulf (ESP) (Unl)",
+    "archivo": "bundle_chunk_886.cache"
+  },
+  {
+    "id": "juego_888",
+    "titulo": "War on Wheels (ESP) (Proto)",
+    "archivo": "bundle_chunk_887.cache"
+  },
+  {
+    "id": "juego_889",
+    "titulo": "Warpman (ESP)",
+    "archivo": "bundle_chunk_888.cache"
+  },
+  {
+    "id": "juego_890",
+    "titulo": "Wayne's World (ESP)",
+    "archivo": "bundle_chunk_889.cache"
+  },
+  {
+    "id": "juego_891",
+    "titulo": "WCW World Championship Wrestling (ESP)",
+    "archivo": "bundle_chunk_890.cache"
+  },
+  {
+    "id": "juego_892",
+    "titulo": "Werewolf - The Last Warrior (ESP-Julian L.)",
+    "archivo": "bundle_chunk_891.cache"
+  },
+  {
+    "id": "juego_893",
+    "titulo": "Werewolf - The Last Warrior (ESP-Wave)",
+    "archivo": "bundle_chunk_892.cache"
+  },
+  {
+    "id": "juego_894",
+    "titulo": "Whomp 'Em (ESP)",
+    "archivo": "bundle_chunk_893.cache"
+  },
+  {
+    "id": "juego_895",
+    "titulo": "Widget (ESP)",
+    "archivo": "bundle_chunk_894.cache"
+  },
+  {
+    "id": "juego_896",
+    "titulo": "Wild Gunman (ESP)",
+    "archivo": "bundle_chunk_895.cache"
+  },
+  {
+    "id": "juego_897",
+    "titulo": "Wizards & Warriors (ESP)",
+    "archivo": "bundle_chunk_896.cache"
+  },
+  {
+    "id": "juego_898",
+    "titulo": "Wizards & Warriors III - Kuros...Visions of Power (ESP)",
+    "archivo": "bundle_chunk_897.cache"
+  },
+  {
+    "id": "juego_899",
+    "titulo": "Wolfling (ESP)",
+    "archivo": "bundle_chunk_898.cache"
+  },
+  {
+    "id": "juego_900",
+    "titulo": "Wolverine (ESP)",
+    "archivo": "bundle_chunk_899.cache"
+  },
+  {
+    "id": "juego_901",
+    "titulo": "World Games (ESP)",
+    "archivo": "bundle_chunk_900.cache"
+  },
+  {
+    "id": "juego_902",
+    "titulo": "Wrath of the Black Manta (ESP)",
+    "archivo": "bundle_chunk_901.cache"
+  },
+  {
+    "id": "juego_903",
+    "titulo": "Wrecking Crew (ESP)",
+    "archivo": "bundle_chunk_902.cache"
+  },
+  {
+    "id": "juego_904",
+    "titulo": "WWF Wrestlemania (ESP)",
+    "archivo": "bundle_chunk_903.cache"
+  },
+  {
+    "id": "juego_905",
+    "titulo": "WWF Wrestlemania Challenge (ESP)",
+    "archivo": "bundle_chunk_904.cache"
+  },
+  {
+    "id": "juego_906",
+    "titulo": "WWF Wrestlemania Steel Cage Challenge (ESP)",
+    "archivo": "bundle_chunk_905.cache"
+  },
+  {
+    "id": "juego_907",
+    "titulo": "Xenophobe (ESP)",
+    "archivo": "bundle_chunk_906.cache"
+  },
+  {
+    "id": "juego_908",
+    "titulo": "Xevious (ESP)",
+    "archivo": "bundle_chunk_907.cache"
+  },
+  {
+    "id": "juego_909",
+    "titulo": "Xexyz (ESP)",
+    "archivo": "bundle_chunk_908.cache"
+  },
+  {
+    "id": "juego_910",
+    "titulo": "Yie Ar Kung-Fu (ESP)",
+    "archivo": "bundle_chunk_909.cache"
+  },
+  {
+    "id": "juego_911",
+    "titulo": "Yo! Noid (ESP)",
+    "archivo": "bundle_chunk_910.cache"
+  },
+  {
+    "id": "juego_912",
+    "titulo": "Yo! Noid - Kamen no Ninja - Hanamaru (ESP-Jap)",
+    "archivo": "bundle_chunk_911.cache"
+  },
+  {
+    "id": "juego_913",
+    "titulo": "Youkai Club (ESP)",
+    "archivo": "bundle_chunk_912.cache"
+  },
+  {
+    "id": "juego_914",
+    "titulo": "Youkai Douchuuki (ESP)",
+    "archivo": "bundle_chunk_913.cache"
+  },
+  {
+    "id": "juego_915",
+    "titulo": "Ys (ESP)",
+    "archivo": "bundle_chunk_914.cache"
+  },
+  {
+    "id": "juego_916",
+    "titulo": "Ys II - Ancient Ys Vanished - The Final Chapter (ESP)",
+    "archivo": "bundle_chunk_915.cache"
+  },
+  {
+    "id": "juego_917",
+    "titulo": "Zanac (ESP)",
+    "archivo": "bundle_chunk_916.cache"
+  },
+  {
+    "id": "juego_918",
+    "titulo": "Zelda II - The Adventure of Link (ESP-jackic)",
+    "archivo": "bundle_chunk_917.cache"
+  },
+  {
+    "id": "juego_919",
+    "titulo": "Zen - Intergalactic Ninja (ESP)",
+    "archivo": "bundle_chunk_918.cache"
+  },
+  {
+    "id": "juego_920",
+    "titulo": "Zippy Race (ESP)",
+    "archivo": "bundle_chunk_919.cache"
+  },
+  {
+    "id": "juego_921",
+    "titulo": "Zombie Hunter (ESP)",
+    "archivo": "bundle_chunk_920.cache"
+  },
+  {
+    "id": "juego_922",
+    "titulo": "Zombie Nation (ESP-JONNYVILLA2088)",
+    "archivo": "bundle_chunk_921.cache"
+  },
+  {
+    "id": "juego_923",
+    "titulo": "Zombie Nation (ESP-Wave)",
+    "archivo": "bundle_chunk_922.cache"
+  },
+  {
+    "id": "juego_924",
+    "titulo": "Zunou Senkan Galg (ESP)",
+    "archivo": "bundle_chunk_923.cache"
+  }
+]
